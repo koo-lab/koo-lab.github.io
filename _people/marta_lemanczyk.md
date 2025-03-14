@@ -1,11 +1,7 @@
 ---
 name: Marta Lemanczyk<br>Visiting Grad Student<br>Since 2025
 position: gradstudent 
-<<<<<<< HEAD
 avatar: marta_profile.jpg
-=======
-avatar: marta_profile.JPG
->>>>>>> b7a7a39d2175397610533f75bb5fe6bd02319da8
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -20,10 +16,7 @@ avatar: marta_profile.JPG
 <a href="mailto:lemanczyk@cshl.edu"><i class="fa fa-envelope-o"></i> lemanczyk@cshl.edu</a><br>
 <a href="https://bsky.app/profile/mlemanczyk.bsky.social"><i class="fa fa-twitter"></i> @mlemanczyk.bsky.social</a><br>
 <a href="https://www.linkedin.com/in/marta-lemanczyk/"><i class="fa fa-linkedin-square"></i> MartaLemanczyk</a><br>
-<<<<<<< HEAD
-=======
 <a href="https://github.com/Al-Murphy"><i class="fa fa-github"></i> @Al-Murphy </a><br>
->>>>>>> b7a7a39d2175397610533f75bb5fe6bd02319da8
 
 <hr>
 

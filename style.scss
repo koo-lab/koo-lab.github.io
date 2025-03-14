@@ -30,6 +30,7 @@ body {
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
+  padding-top: 80px;  // Increased padding for navbar
 }
 
 .MathJax_Display{
@@ -285,12 +286,15 @@ tbody tr:nth-child(odd) th {
 
 .container {
   max-width: 40rem;
-//  padding: 2rem 1.5rem;
+  padding-top: 20px;
   margin-left:  auto;
   margin-right: auto;
 
+  .wrapper {
+    padding-top: 10px;
+  }
+
   @media (min-width: 40rem){
-//    padding: 5rem 1rem;
   }
 }
 
@@ -546,4 +550,14 @@ tbody tr:nth-child(odd) th {
 .navbar-toggle, .navbar-default .navbar-toggle:hover {
   border: none;
   background-color: #FFF;
+}
+
+// Adjust navbar height
+.navbar-fixed-top {
+  min-height: 60px;
+  
+  .navbar-brand {
+    padding: 15px;
+    height: 60px;
+  }
 }

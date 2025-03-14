@@ -1,11 +1,7 @@
 ---
 name: Chandana Rajesh<br>Stony Brook Applied Math<br>PhD Student<br>Since 2021
 position: gradstudent
-<<<<<<< HEAD
 avatar: chandana_profile.jpg
-=======
-avatar: chandana_profile.JPG
->>>>>>> b7a7a39d2175397610533f75bb5fe6bd02319da8
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -23,8 +19,6 @@ avatar: chandana_profile.JPG
 ### Research Interests
 
 I am interested in the intersection between biology, mathematics, and computer science. I previously worked in a neurodegeneration lab, where my research centered on finding novel proteins involved in ALS. In the future, I hope to apply deep learning techniques on genomics and computational neuroscience related projects.
-<<<<<<< HEAD
-=======
 <br>
 <br>
 <br>

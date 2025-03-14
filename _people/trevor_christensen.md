@@ -1,14 +1,8 @@
 ---
-<<<<<<< HEAD
 name: Trevor Christensen<br>CSHL<br>Rotation<br>Since 2025
 position: gradstudent 
 avatar: trevor_profile.jpg
 joined: 2025-01-01
-=======
-name: Trevor Christensen<br>Rotation<br>Since 2025
-position: rotation 
-avatar: trevor_profile.JPG
->>>>>>> b7a7a39d2175397610533f75bb5fe6bd02319da8
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

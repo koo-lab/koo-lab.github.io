@@ -1,14 +1,9 @@
 ---
 name: Alan Murphy<br>Postdoc<br>Since 2025
 position: postdoc 
-<<<<<<< HEAD
 avatar: alanmurphy_profile.jpg
 twitter: Al_Murphy_
 joined: 2025-03-03
-=======
-avatar: alanmurphy_profile.JPG
-twitter: Al_Murphy_
->>>>>>> b7a7a39d2175397610533f75bb5fe6bd02319da8
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -30,14 +25,11 @@ twitter: Al_Murphy_
 
 ### Research Interests
 
-<<<<<<< HEAD
 I am interested in developing methods to improve genomic deep learning models so they can be better used to elucidate the cis-regulatory code.
-=======
 I am interested in developing methods to improve genomic deep learning models so they can be better used to elucidate the cis-regulatory code. 
 <br>
 <br>
 <br>
->>>>>>> b7a7a39d2175397610533f75bb5fe6bd02319da8
 
 &nbsp;
 &nbsp;
