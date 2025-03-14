@@ -1,5 +1,5 @@
 ---
-name: Marta Lemanczyk<br>Visiting Grad Student<br>Since 2025
+name: Marta Lemanczyk<br>Hasso-Plattner Institute<br>Visiting Grad Student<br>Since 2025
 position: gradstudent 
 avatar: marta_profile.jpg
 ---

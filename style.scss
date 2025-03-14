@@ -30,7 +30,7 @@ body {
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
-  padding-top: 80px;  // Increased padding for navbar
+  padding-top: 50px;  // Reduced from 80px
 }
 
 .MathJax_Display{
@@ -554,10 +554,25 @@ tbody tr:nth-child(odd) th {
 
 // Adjust navbar height
 .navbar-fixed-top {
-  min-height: 60px;
+  min-height: 40px;  // Reduced from 60px
   
   .navbar-brand {
-    padding: 15px;
-    height: 60px;
+    padding: 10px 15px;  // Reduced top/bottom padding
+    height: 40px;  // Reduced from 60px
+    font-size: 16px;  // Slightly smaller font
   }
+}
+
+// Adjust the nav items to match the new height
+.navbar-nav > li > a {
+  padding-top: 10px;    // Reduced from 15px
+  padding-bottom: 10px; // Reduced from 15px
+  font-size: 13px;      // Slightly smaller font
+}
+
+// Adjust the toggle button for mobile
+.navbar-toggle {
+  margin-top: 4px;    // Reduced from 8px
+  margin-bottom: 4px; // Reduced from 8px
+  padding: 5px 10px;  // Smaller padding
 }
