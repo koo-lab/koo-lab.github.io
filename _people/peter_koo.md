@@ -23,6 +23,7 @@ twitter: pkoo562
 <br>
 
 <a href="mailto:koo@cshl.edu"><i class="fas fa-envelope"></i> koo@cshl.edu</a><br>
+<a href="https://bsky.app/profile/pkoo562.bsky.social"><i class="fas fa-cloud"></i> @pkoo562.bsky.social</a><br>
 <a href="https://twitter.com/pkoo562"><i class="fab fa-twitter"></i> @pkoo562 </a><br>
 <a href="https://www.linkedin.com/in/p-koo"><i class="fab fa-linkedin"></i> PeterKoo</a><br>
 <a href="https://github.com/p-koo"><i class="fab fa-github"></i> @p-koo </a><br>
