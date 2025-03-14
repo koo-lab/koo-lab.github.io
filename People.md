@@ -3,11 +3,8 @@ title: People
 permalink: /People/
 ---
 
-<<<<<<< HEAD
 {% assign people_sorted = site.people | sort: 'joined' %}
-=======
 {% assign people_sorted = (site.people | sort: 'joined' %}
->>>>>>> b7a7a39d2175397610533f75bb5fe6bd02319da8
 {% assign people_array = "pi|staff|postdoc|gradstudent|postbac|undergrad|highschool" | split: "|" %}
 
 {% for item in people_array %}
@@ -19,11 +16,8 @@ permalink: /People/
 <h3>Postdoctoral Researchers</h3>
  {% elsif item == 'gradstudent' %}
 <h3>Graduate Students</h3>
-<<<<<<< HEAD
-=======
  {% elsif item == 'rotation' %}
 <h3>Masters Researchers</h3>
->>>>>>> b7a7a39d2175397610533f75bb5fe6bd02319da8
  {% elsif item == 'postbac' %}
 <h3>Postbaccalaureate Researchers</h3>
  {% elsif item == 'highschool' %}

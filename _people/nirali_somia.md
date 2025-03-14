@@ -1,5 +1,5 @@
 ---
-name: Nirali Somia<br><br>PREP Scholar<br>Since 2024
+name: Nirali Somia<br>PREP Scholar<br>Since 2024
 position: postbac
 avatar: niralisomia_profile3.jpg
 twitter: 
