@@ -515,8 +515,9 @@ tbody tr:nth-child(odd) th {
 
 .navbar-brand {
   //font-weight: bold;
-  font-size: 20px;
-  font-weight: 300;
+  font-size: 16px;  // Reduced from 20px
+  font-weight: 400;  // Slightly bolder
+  letter-spacing: 0.5px;  // Better spacing
 }
 
 // change font for navbar
