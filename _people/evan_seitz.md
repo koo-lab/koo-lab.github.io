@@ -15,10 +15,10 @@ avatar: evan_seitz_profile.png
 - _2014-2017, BS in Physics, Georgia Institute of Technology_ <br>
 <br>
 ​
-<a href="mailto:seitz@cshl.edu"><i class="fa fa-envelope-o"></i> seitz@cshl.edu</a><br>
-<a href="https://twitter.com/EESeitz"><i class="fa fa-twitter"></i> @EESeitz </a><br>
-<a href="https://www.linkedin.com/in/eeseitz/"><i class="fa fa-linkedin-square"></i> EvanSeitz</a><br>
-<a href="https://github.com/evanseitz"><i class="fa fa-github"></i> @evanseitz </a><br>
+<a href="mailto:seitz@cshl.edu"><i class="fas fa-envelope"></i> seitz@cshl.edu</a><br>
+<a href="https://twitter.com/EESeitz"><i class="fab fa-twitter"></i> @EESeitz </a><br>
+<a href="https://www.linkedin.com/in/eeseitz/"><i class="fab fa-linkedin"></i> EvanSeitz</a><br>
+<a href="https://github.com/evanseitz"><i class="fab fa-github"></i> @evanseitz </a><br>
 
 <hr>
 

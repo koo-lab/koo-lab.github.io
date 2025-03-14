@@ -12,9 +12,9 @@ avatar: shush_toneyan_profile.jpg
 - _2014-2017, Bachelor's degree in Biology, University of Oxford_ <br>
 <br>
 
-<a href="mailto:toneyan@cshl.edu"><i class="fa fa-envelope-o"></i> toneyan@cshl.edu</a><br>
-<a href="https://www.linkedin.com/in/shushan-toneyan-5a59b668"><i class="fa fa-linkedin-square"></i> ShushanToneyan</a><br>
-<a href="https://github.com/Shushalsec"><i class="fa fa-github"></i> @Shushalsec </a><br>
+<a href="mailto:toneyan@cshl.edu"><i class="fas fa-envelope"></i> toneyan@cshl.edu</a><br>
+<a href="https://www.linkedin.com/in/shushan-toneyan-5a59b668"><i class="fab fa-linkedin"></i> ShushanToneyan</a><br>
+<a href="https://github.com/Shushalsec"><i class="fab fa-github"></i> @Shushalsec </a><br>
 
 
 <hr>

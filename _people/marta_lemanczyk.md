@@ -13,10 +13,10 @@ avatar: marta_profile.jpg
 - _2013-2017, BSc in Computer Science, University of Marburg (Germany)_ <br>
 <br>
 
-<a href="mailto:lemanczyk@cshl.edu"><i class="fa fa-envelope-o"></i> lemanczyk@cshl.edu</a><br>
-<a href="https://bsky.app/profile/mlemanczyk.bsky.social"><i class="fa fa-twitter"></i> @mlemanczyk.bsky.social</a><br>
-<a href="https://www.linkedin.com/in/marta-lemanczyk/"><i class="fa fa-linkedin-square"></i> MartaLemanczyk</a><br>
-<a href="https://github.com/Al-Murphy"><i class="fa fa-github"></i> @Al-Murphy </a><br>
+<a href="mailto:lemanczyk@cshl.edu"><i class="fas fa-envelope"></i> lemanczyk@cshl.edu</a><br>
+<a href="https://bsky.app/profile/mlemanczyk.bsky.social"><i class="fas fa-cloud"></i> @mlemanczyk.bsky.social</a><br>
+<a href="https://www.linkedin.com/in/marta-lemanczyk/"><i class="fab fa-linkedin"></i> MartaLemanczyk</a><br>
+<a href="https://github.com/Al-Murphy"><i class="fab fa-github"></i> @Al-Murphy </a><br>
 
 <hr>
 

@@ -15,11 +15,11 @@ joined: 2025-03-03
 - _2013-2017, BSc in Management Science and Information Systems Studies (MSISS), University of Dublin, Trinity College Dublin_ <br>
 <br>
 
-<a href="https://al-murphy.github.io/"><i class="fa fa-envelope-o"></i> personal website</a><br>
-<a href="mailto:amurphy@cshl.edu"><i class="fa fa-envelope-o"></i> amurphy@cshl.edu</a><br>
-<a href="https://twitter.com/Al_Murphy_"><i class="fa fa-twitter"></i> @Al_Murphy_ </a><br>
-<a href="https://www.linkedin.com/in/alan-murphy-23aa019a"><i class="fa fa-linkedin-square"></i> AlanMurphy</a><br>
-<a href="https://github.com/Al-Murphy"><i class="fa fa-github"></i> @Al-Murphy </a><br>
+<a href="https://al-murphy.github.io/"><i class="fas fa-globe"></i> personal website</a><br>
+<a href="mailto:amurphy@cshl.edu"><i class="fas fa-envelope"></i> amurphy@cshl.edu</a><br>
+<a href="https://twitter.com/Al_Murphy_"><i class="fab fa-twitter"></i> @Al_Murphy_ </a><br>
+<a href="https://www.linkedin.com/in/alan-murphy-23aa019a"><i class="fab fa-linkedin"></i> AlanMurphy</a><br>
+<a href="https://github.com/Al-Murphy"><i class="fab fa-github"></i> @Al-Murphy </a><br>
 
 <hr>
 

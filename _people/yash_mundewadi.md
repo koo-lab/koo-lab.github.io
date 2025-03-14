@@ -11,7 +11,7 @@ avatar: yash_mundewadi_profile.jpg
 
 <br>
 
-<a href="mailto:yash.vm@iitkgp.ac.in"><i class="fa fa-envelope-o"></i> yash.vm@iitkgp.ac.in</a><br>
+<a href="mailto:yash.vm@iitkgp.ac.in"><i class="fas fa-envelope"></i> yash.vm@iitkgp.ac.in</a><br>
 
 <hr>
 

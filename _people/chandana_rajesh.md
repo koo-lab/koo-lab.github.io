@@ -12,7 +12,7 @@ avatar: chandana_profile.jpg
 - _2016-2020, BS in Biology, Stony Brook University_ <br>
 <br>
 
-<a href="mailto:rejesh@cshl.edu"><i class="fa fa-envelope-o"></i> rejesh@cshl.edu</a><br>
+<a href="mailto:rejesh@cshl.edu"><i class="fas fa-envelope"></i> rejesh@cshl.edu</a><br>
 
 <hr>
 

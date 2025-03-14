@@ -14,8 +14,8 @@ avatar: jessica_zhou_profile.jpg
 - _2013-2017, BS in Biomedical Engineering, University of Southern California_ <br>
 <br>
 ​
-<a href="mailto:jezhou@cshl.edu"><i class="fa fa-envelope-o"></i> jezhou@cshl.edu</a><br>
-<a href="https://www.linkedin.com/in/jessica-l-zhou/"><i class="fa fa-linkedin-square"></i> jessica-l-zhou</a><br>
+<a href="mailto:jezhou@cshl.edu"><i class="fas fa-envelope"></i> jezhou@cshl.edu</a><br>
+<a href="https://www.linkedin.com/in/jessica-l-zhou/"><i class="fab fa-linkedin"></i> jessica-l-zhou</a><br>
 
 <hr>
 

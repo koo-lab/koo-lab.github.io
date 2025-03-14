@@ -12,7 +12,7 @@ avatar: sophiachen_profile.jpg
 
 <br>
 
-<a href="mailto:muthukum@cshl.edu"><i class="fa fa-envelope-o"></i> muthukum@cshl.edu</a><br>
+<a href="mailto:muthukum@cshl.edu"><i class="fas fa-envelope"></i> muthukum@cshl.edu</a><br>
 
 <hr>
 

@@ -16,10 +16,10 @@ avatar: alessandro_crnjar_profile.png
 - _2010-2014, Bachelor of Science in Physics, Universita' degli Studi di Cagliari_ <br>
 <br>
 ​
-<a href="mailto:crnjar@cshl.edu"><i class="fa fa-envelope-o"></i> crnjar@cshl.edu</a><br>
-<a href="https://twitter.com/AlesCrnjar"><i class="fa fa-twitter"></i> @AlesCrnjar </a><br>
-<a href="https://it.linkedin.com/in/alessandro-crnjar-834394103/"><i class="fa fa-linkedin-square"></i> AlessandroCrnjar</a><br>
-<a href="https://github.com/alescrnjar"><i class="fa fa-github"></i> @alescrnjar </a><br>
+<a href="mailto:crnjar@cshl.edu"><i class="fas fa-envelope"></i> crnjar@cshl.edu</a><br>
+<a href="https://twitter.com/AlesCrnjar"><i class="fab fa-twitter"></i> @AlesCrnjar </a><br>
+<a href="https://it.linkedin.com/in/alessandro-crnjar-834394103/"><i class="fab fa-linkedin"></i> AlessandroCrnjar</a><br>
+<a href="https://github.com/alescrnjar"><i class="fab fa-github"></i> @alescrnjar </a><br>
 
 <hr>
 

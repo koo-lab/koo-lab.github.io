@@ -16,9 +16,9 @@ avatar: anirban_sarkar_profile.png
 
 <br>
 ​
-<a href="mailto:asarkar@cshl.edu"><i class="fa fa-envelope-o"></i> asarkar@cshl.edu</a><br>
-<a href="https://www.linkedin.com/in/anirbanmca2007"><i class="fa fa-linkedin-square"></i> anirbanmca2007 </a><br>
-<a href="https://github.com/anirbansarkar-cs"><i class="fa fa-github"></i> @anirbansarkar-cs </a><br>
+<a href="mailto:asarkar@cshl.edu"><i class="fas fa-envelope"></i> asarkar@cshl.edu</a><br>
+<a href="https://www.linkedin.com/in/anirbanmca2007"><i class="fab fa-linkedin"></i> anirbanmca2007 </a><br>
+<a href="https://github.com/anirbansarkar-cs"><i class="fab fa-github"></i> @anirbansarkar-cs </a><br>
 
 <hr>
 
