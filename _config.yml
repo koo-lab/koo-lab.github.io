@@ -10,10 +10,10 @@ description:        ""
 
 # URL
 url:                https://koolab.cshl.edu
+baseurl:            ""
 plugins:
    - jekyll-sitemap
 
-baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
@@ -70,6 +70,3 @@ collections:
   people:
     output: true
     permalink: /people/:title/index.html
-    
-plugins:
-   - jekyll-sitemap
