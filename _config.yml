@@ -9,7 +9,7 @@ description:        ""
 
 
 # URL
-url:                http://koo-lab.github.io
+url:                https://koolab.cshl.edu
 plugins:
    - jekyll-sitemap
 
