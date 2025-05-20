@@ -5,6 +5,14 @@ permalink: /Publication/
 
 ## 2025
 
+_Machine Learning for Protein Science and Engineering_<br>
+<b>PK Koo</b>, C Dallago, A Nambiar, KK Yang<br>
+Cold Spring Harbor Perspectives in Biology ([Book](https://cshperspectives.cshlp.org/content/early/2025/05/03/cshperspect.a041877.abstract))<br>
+
+_Massive experimental quantification allows interpretable deep learning of protein aggregation_<br>
+M Thompson, M Martín, TS Olmo, <b>C Rajesh</b>, <b>PK Koo</b>, B Bolognesi, B Lehner<br>
+Science Advances ([Paper](https://www.science.org/doi/full/10.1126/sciadv.adt5111))<br>
+
 _Reusable specimen-level inference in computational pathologys_<br>
 <b>JR Kaczmarzyk</b>, R Sharma, <b>PK Koo</b>, JH Saltz<br>
 arXiv ([Preprint](https://arxiv.org/abs/2501.05945), [Code](https://github.com/SBU-BMI/SpinPath))<br>
