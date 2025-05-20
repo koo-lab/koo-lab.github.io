@@ -44,6 +44,7 @@ _Evaluating the representational power of pre-trained DNA language models for re
 <b>Z Tang</b>, <b>N Somia</b>, <b>Y Kang</b>, <b>PK Koo</b><br>
 bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2024.02.29.582810v1), [Code](https://github.com/amberT15/LLM_eval)) <br> 
 _Selected for oral presentation at 2024 CSHL Meeting on Systems Biology_ 
+_Accepted in Genome Biology_
 
 
 _Analysis of single-cell CRISPR perturbations indicates that enhancers predominantly act multiplicatively_<br>
