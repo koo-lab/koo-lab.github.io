@@ -5,6 +5,12 @@ permalink: /Publication/
 
 ## 2025
 
+_Evaluating the representational power of pre-trained DNA language models for regulatory genomics_<br>
+<b>Z Tang</b>, <b>N Somia</b>, <b>Y Kang</b>, <b>PK Koo</b><br>
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2024.02.29.582810v1), [Code](https://github.com/amberT15/LLM_eval)) <br> 
+_Presented at the 2023 ICML Workshop on Computational Biology_ 
+_Selected for oral presentation at 2024 CSHL Meeting on Systems Biology_ 
+
 _Machine Learning for Protein Science and Engineering_<br>
 <b>PK Koo</b>, C Dallago, A Nambiar, KK Yang<br>
 Cold Spring Harbor Perspectives in Biology ([Book](https://cshperspectives.cshlp.org/content/early/2025/05/03/cshperspect.a041877.abstract))<br>
@@ -38,13 +44,6 @@ _Designing DNA With Tunable Regulatory Activity Using Discrete Diffusion_<br>
 <b>A Sarkar</b>, <b>Z Tang</b>, <b>C Zhao</b>, <b>PK Koo</b><br>
 bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2024.05.23.595630v1.abstract), [Code](https://anonymous.4open.science/r/D3-DNA-Discrete-Diffusion-3E42/))<br> 
  Selected for oral presentation at 2024 MLCB
-
-
-_Evaluating the representational power of pre-trained DNA language models for regulatory genomics_<br>
-<b>Z Tang</b>, <b>N Somia</b>, <b>Y Kang</b>, <b>PK Koo</b><br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2024.02.29.582810v1), [Code](https://github.com/amberT15/LLM_eval)) <br> 
-_Selected for oral presentation at 2024 CSHL Meeting on Systems Biology_ 
-_Accepted in Genome Biology_
 
 
 _Analysis of single-cell CRISPR perturbations indicates that enhancers predominantly act multiplicatively_<br>
