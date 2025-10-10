@@ -5,7 +5,7 @@ permalink: /Publication/
 
 ## 2025
 
-_Uncovering the Mechanistic Landscape of Regulatory DNA with Deep Learning_
+_Uncovering the Mechanistic Landscape of Regulatory DNA with Deep Learning_<br>
 <b>E Seitz</b>, <b>DM McCandlish</b>, <b>JB Kinney</b>, <b>PK Koo</b><br>
 bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2025.10.07.681052v1.full), [Code](https://github.com/evanseitz/seam-nn))<br> 
 
