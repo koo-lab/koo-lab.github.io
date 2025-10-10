@@ -1,6 +1,6 @@
 ---
 name: Alicia Barriola<br>Cold Spring Harbor High<br>HS Researcher<br>Since 2024
-position: highschool
+position: alumni
 avatar: aliciabarriola_profile.png
 ---
 
