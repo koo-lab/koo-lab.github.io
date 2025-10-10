@@ -92,8 +92,9 @@ Roshan Kenia | Undergrad Researcher | Stony Brook, Computer Science | 2020-2021 
  
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
-Arnav Pemmaraju |  High School Researcher | Great Neck South | Summer 2025 |  |
-Brian Cheng |  High School Researcher | Great Neck South | Summer 2025 |  |
+Arnav Pemmaraju |  High School Researcher | Great Neck South High | Summer 2025 |  |
+Brian Cheng |  High School Researcher | Great Neck South High | Summer 2025 |  |
+Eliot Bih |  High School Researcher | Syosset High | Summer 2025 |  |
 Shivani Muthukumar | High School Researcher  | Commack High | 2024-2025 | Undergrad at Columbia |
 Aayush Prakash | High School Researcher  | Half Hallow Hills High | 2022-2024 | Undergrad at UNC |
 Katie Engel | High School Researcher  | Cold Spring Harbor High | 2023-2024 | Undergrad at Tufts |
