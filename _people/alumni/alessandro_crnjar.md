@@ -1,6 +1,6 @@
 ---
 name: Alessandro Crnjar<br>Postdoc<br>Since 2023
-position: postdoc
+position: alumni
 avatar: alessandro_crnjar_profile.png
 ---
 

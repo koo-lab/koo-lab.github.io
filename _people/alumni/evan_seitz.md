@@ -1,6 +1,6 @@
 ---
 name: Evan Seitz<br>Postdoc<br>Since 2022
-position: postdoc
+position: alumni
 avatar: evan_seitz_profile.png
 ---
 

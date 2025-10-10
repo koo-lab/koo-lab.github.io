@@ -47,6 +47,8 @@ permalink: /People/
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
+Evan Seitz | Postdoc | CSHL | 2022-2025 | Research Scientist at InstaDeep |
+Jessica Zhou | Postdoc | CSHL | 2023-2025 | Data Scientist at Stripe |
 Yinan Dong | Postdoc | CSHL | 2023-2023 | Research Scientist at Meta |
 Antonio Majdandzic | Postdoc | CSHL | 2020-2022 | ML Researcher at Bloomberg |
 Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Staff Scientist at Jackson Laboratory |
@@ -55,8 +57,10 @@ Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Staff Scientist at Jackson Laborat
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
+Chandana Rajesh | Grad Student | SBU Applied Math and Statistics | 2021-2025 | Research Scientist at InstaDeep |
+Jakub Kaczmarzyk | Grad Student | SBU MD/PhD | 2021-2025 | Finishing up Med School |
 Shushan Toneyan | Grad Student | CSHL | 2020-2024 | Postdoc at Roche |
-Ziqi (Amber) Tang | Grad Student | CSHL | 2020-2024 | ML Researcher at InstaDeep |
+Ziqi (Amber) Tang | Grad Student | CSHL | 2020-2024 | Research Scientist at InstaDeep |
 
 
 <h5>Staff</h5>
@@ -66,22 +70,33 @@ Ziqi (Amber) Tang | Grad Student | CSHL | 2020-2024 | ML Researcher at InstaDeep
 Nicholas Lee | Comp Sci Developer | CSHL | 2020-2022 | |
 
 
+<h5>Postbac</h5>
+
+| Name | Position | Program | Time in Lab | Current Position |
+| :------------- |:-------------| :-----------| :-----------| :-----------|
+Nirali Somia | Researcher | PREP Scholar | 2024-2025 | Grad Student at MIT|
+
+
 <h5>Undergrads</h5>
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
+Tianhao Luo | Summer Undergrad Research Program | UPenn, Statistics | Summer 2023 | Harvard |
 Nika Chuzhoy | Undergrad Researcher | CalTech, Computer Science | Summer 2023 | |
-Tianhao Luo | Summer Undergrad Research Program | UPenn, Statistics | Summer 2023 | |
 Phillip Zhou | Summer Undergrad Research Program  | Amherst College, Math | Summer 2022 | |
 Vandana Agarwala | Summer Undergrad Research Program | Penn State, Computer Science | Summer 2021 | Software developer at Flagship Pioneering |
 Roshan Kenia | Undergrad Researcher | Stony Brook, Computer Science | 2020-2021 | Computer Science Masters Program at Columbia |
+
 
 <h5>High Schoolers</h5>
  
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
-Aayush Prakash | High School Researcher  | Half Hallow Hills High | 2022-2024 |  |
-Katie Engel | High School Researcher  | Cold Spring Harbor High | 2023-2024 |  |
+Arnav Pemmaraju |  High School Researcher | Great Neck South | Summer 2025 |  |
+Brian Cheng |  High School Researcher | Great Neck South | Summer 2025 |  |
+Shivani Muthukumar | High School Researcher  | Commack High | 2024-2025 | Undergrad at Columbia |
+Aayush Prakash | High School Researcher  | Half Hallow Hills High | 2022-2024 | Undergrad at UNC |
+Katie Engel | High School Researcher  | Cold Spring Harbor High | 2023-2024 | Undergrad at Tufts |
 Steven Yu | High School Researcher  | Syosset High | 2022-2023 | Undergrad at Columbia |
 Amanda Nemshin | High School Researcher  | Cold Spring Harbor High | 2022-2023 | Undergrad at Duke |
 Rohan Ghotra | High School Researcher  | Syosset High | 2021-2022 | Undergrad at Columbia |
@@ -89,25 +104,12 @@ Ethan Labelson | High School Researcher  | Friends Academy | 2021-2022 | Undergr
 Ashwin Narayanan | High School Researcher  | Jericho High | Summer 2022 | Undergrad at Johns Hopkins |
 Zaara Yakub | High School Researcher | Bethpage High School | 2020-2021 | Undergrad at Lehigh |
 
-
 <h5>Visiting researchers</h5>
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
 Eduardo Esteva | Masters Student | NYU, Bioinformatics | 2020-2021 | Bioinformatics Analyst at NYU Grossman School of Medicine |
 
-<h5>Rotation Students</h5>
-
-| Name | Position | Program | Time in Lab | Current Position |
-| :------------- |:-------------| :-----------| :-----------| :-----------|
-Maha Sayed | Rotation Student | CSHL SBS | Spring 2023 | Grad student in Meyer Lab |
-June He | Rotation Student | Stony Brook Genetics PhD student | Spring 2023 |  |
-Lucia Tellez Perez | Rotation Student | CSHL SBS | Spring 2022 | Grad student in dos Santos Lab |
-Thomas Huffstutler | Rotation Student | Stony Brook Applied Math Masters student | Spring 2022 | |
-Joon-Hyun Song | Rotation Student | Stony Brook Applied Math PhD student | Winter 2021 | |
-Scott Feltman | Rotation Student | Stony Brook Applied Math PhD student | Winter 2021 | |
-Brenda Delamonica | Rotation Student | Stony Brook Applied Math Masters student | Fall 2021 | |
-Sam Kleeman | Rotation Student | CSHL SBS | Spring 2021 | Grad student in Janowitz and Furukawa Labs |
 
 <br>
 <br>

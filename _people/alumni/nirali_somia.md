@@ -1,6 +1,6 @@
 ---
 name: Nirali Somia<br>PREP Scholar<br>Since 2024
-position: postbac
+position: alumni
 avatar: niralisomia_profile3.jpg
 twitter: 
 ---

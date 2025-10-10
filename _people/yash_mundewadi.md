@@ -1,6 +1,6 @@
 ---
-name: Yash Mundewadi<br>IIT Kharagpur<br>Masters Thesis<br>Since 2023
-position: alumni
+name: Yash Mundewadi<br>CSHL<br>Grad Student<br>Since 2025
+position: gradstudent
 avatar: yash_mundewadi_profile.jpg
 ---
 

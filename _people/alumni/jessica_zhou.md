@@ -1,6 +1,6 @@
 ---
 name: Jessica Zhou<br>Postdoc<br>Since 2023
-position: postdoc
+position: alumni
 avatar: jessica_zhou_profile.jpg
 ---
 
