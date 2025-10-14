@@ -16,6 +16,10 @@ _Presented at the 2023 ICML Workshop on Computational Biology_
 _Selected for oral presentation at 2024 CSHL Meeting on Systems Biology_ 
 _[Research Highlight at Nature Methods](https://www.nature.com/articles/s41592-025-02829-6)_
 
+_Towards interpretable prediction of recurrence risk in breast cancer using pathology foundation models_<br>
+<b>JR Kaczmarzyk</b>, S Van Alsten, AJ Cozzo, R Gupta, <b>PK Koo</b>, MA Troester, KA Hoadley, JH Saltz<br>
+arXiv ([Preprint](https://arxiv.org/abs/2508.12025))<br>
+
 _Machine Learning for Protein Science and Engineering_<br>
 <b>PK Koo</b>, C Dallago, A Nambiar, KK Yang<br>
 Cold Spring Harbor Perspectives in Biology ([Book](https://cshperspectives.cshlp.org/content/early/2025/05/03/cshperspect.a041877.abstract))<br>
