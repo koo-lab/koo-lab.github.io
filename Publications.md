@@ -6,12 +6,12 @@ permalink: /Publication/
 ## 2025
 
 _Uncovering the Mechanistic Landscape of Regulatory DNA with Deep Learning_<br>
-<b>E Seitz</b>, <b>DM McCandlish</b>, <b>JB Kinney</b>, <b>PK Koo</b><br>
+<b>E Seitz</b>, DM McCandlish, JB Kinney, <b>PK Koo</b><br>
 bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2025.10.07.681052v1.full), [Code](https://github.com/evanseitz/seam-nn))<br> 
 
 _Evaluating the representational power of pre-trained DNA language models for regulatory genomics_<br>
 <b>Z Tang</b>, <b>N Somia</b>, <b>Y Kang</b>, <b>PK Koo</b><br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2024.02.29.582810v1), [Code](https://github.com/amberT15/LLM_eval)) <br> 
+Genome Biology ([Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03674-8), [Code](https://github.com/amberT15/LLM_eval)) <br> 
 _Presented at the 2023 ICML Workshop on Computational Biology_ 
 _Selected for oral presentation at 2024 CSHL Meeting on Systems Biology_ 
 _[Research Highlight at Nature Methods](https://www.nature.com/articles/s41592-025-02829-6)_
@@ -32,8 +32,8 @@ _Reusable specimen-level inference in computational pathologys_<br>
 <b>JR Kaczmarzyk</b>, R Sharma, <b>PK Koo</b>, JH Saltz<br>
 arXiv ([Preprint](https://arxiv.org/abs/2501.05945), [Code](https://github.com/SBU-BMI/SpinPath))<br>
 
-_Probabilistic and machine-learning methods for predicting local rates of transcription elongation from nascent RNA sequencing data_
-L Liu, Y Zhao, R Hassett, <b>S Toneyan</b>, <b>PK Koo</b>, A Siepel
+_Probabilistic and machine-learning methods for predicting local rates of transcription elongation from nascent RNA sequencing data_<br>
+L Liu, Y Zhao, R Hassett, <b>S Toneyan</b>, <b>PK Koo</b>, A Siepel<br>
 Nucleic Acids Research ([Paper](https://academic.oup.com/nar/article/53/4/gkaf092/8020229))<br>
 
 
@@ -67,7 +67,7 @@ _Selected for oral presentation at 2023 MLCB_
 
 
 _Interpreting Cis-Regulatory Mechanisms from Genomic Deep Neural Networks using Surrogate Models_<br>
-<b>E Seitz</b>, <b>DM McCandlish</b>, <b>JB Kinney</b>, <b>PK Koo</b><br>
+<b>E Seitz</b>, DM McCandlish, JB Kinney, <b>PK Koo</b><br>
 Nature Machine Intelligence ([Article](https://www.nature.com/articles/s42256-024-00851-5), [Code](https://github.com/evanseitz/squid-nn))<br> 
 
 
