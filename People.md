@@ -47,9 +47,9 @@ permalink: /People/
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
-Evan Seitz | Postdoc | CSHL | 2022-2025 | Research Scientist at InstaDeep |
+Evan Seitz | Postdoc | CSHL | 2022-2025 | ML Research Scientist at InstaDeep |
 Jessica Zhou | Postdoc | CSHL | 2023-2025 | Data Scientist at Stripe |
-Yinan Dong | Postdoc | CSHL | 2023-2023 | Research Scientist at Meta |
+Yinan Dong | Postdoc | CSHL | 2023-2023 | ML Research Scientist at Meta |
 Antonio Majdandzic | Postdoc | CSHL | 2020-2022 | ML Researcher at Bloomberg |
 Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Staff Scientist at Jackson Laboratory |
 
@@ -57,10 +57,10 @@ Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Staff Scientist at Jackson Laborat
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
-Chandana Rajesh | Grad Student | SBU Applied Math and Statistics | 2021-2025 | Research Scientist at InstaDeep |
+Chandana Rajesh | Grad Student | SBU Applied Math and Statistics | 2021-2025 | ML Research Scientist at InstaDeep |
 Jakub Kaczmarzyk | Grad Student | SBU MD/PhD | 2021-2025 | Finishing up Med School |
-Shushan Toneyan | Grad Student | CSHL | 2020-2024 | Postdoc at Roche |
-Ziqi (Amber) Tang | Grad Student | CSHL | 2020-2024 | Research Scientist at InstaDeep |
+Shushan Toneyan | Grad Student | CSHL | 2020-2024 | ML Research Scientist at Genentech |
+Ziqi (Amber) Tang | Grad Student | CSHL | 2020-2024 | ML Research Scientist at InstaDeep |
 
 
 <h5>Staff</h5>
@@ -74,18 +74,18 @@ Nicholas Lee | Comp Sci Developer | CSHL | 2020-2022 | |
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
-Nirali Somia | Researcher | PREP Scholar | 2024-2025 | Grad Student at MIT|
+Nirali Somia | Researcher | PREP Scholar | 2024-2025 | PhD student at MIT|
 
 
 <h5>Undergrads</h5>
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
-Tianhao Luo | Summer Undergrad Research Program | UPenn, Statistics | Summer 2023 | Harvard |
+Tianhao Luo | Summer Undergrad Research Program | UPenn, Statistics | Summer 2023 | PhD student at Harvard |
 Nika Chuzhoy | Undergrad Researcher | CalTech, Computer Science | Summer 2023 | |
 Phillip Zhou | Summer Undergrad Research Program  | Amherst College, Math | Summer 2022 | |
 Vandana Agarwala | Summer Undergrad Research Program | Penn State, Computer Science | Summer 2021 | Software developer at Flagship Pioneering |
-Roshan Kenia | Undergrad Researcher | Stony Brook, Computer Science | 2020-2021 | Computer Science Masters Program at Columbia |
+Roshan Kenia | Undergrad Researcher | Stony Brook, Computer Science | 2020-2021 | PhD student at Harvard |
 
 
 <h5>High Schoolers</h5>
