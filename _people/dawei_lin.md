@@ -1,5 +1,5 @@
 ---
-name: Da-wei Lin<br>CSHL<br>Postdoc<br>Since 2025
+name: Da-wei Lin<br>Postdoc<br>Since 2025
 position: postdoc
 avatar: daweilin_profile.jpg
 ---

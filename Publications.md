@@ -5,6 +5,10 @@ permalink: /Publication/
 
 ## 2025
 
+_Decoding the regulatory genome with large-scale deep learning_<br>
+<b>PK Koo</b><br>
+Nature Review Genetics ([Paper](https://www.nature.com/articles/s41576-025-00914-2)) <br> 
+
 _Uncovering the Mechanistic Landscape of Regulatory DNA with Deep Learning_<br>
 <b>E Seitz</b>, DM McCandlish, JB Kinney, <b>PK Koo</b><br>
 bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2025.10.07.681052v1.full), [Code](https://github.com/evanseitz/seam-nn))<br> 
