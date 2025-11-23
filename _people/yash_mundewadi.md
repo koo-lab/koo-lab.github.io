@@ -1,7 +1,7 @@
 ---
 name: Yash Mundewadi<br>CSHL<br>Grad Student<br>Since 2025
 position: gradstudent
-avatar: yash_mundewadi_profile.jpg
+avatar: yashmundewadi_profile.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

@@ -1,7 +1,7 @@
 ---
 name: Yijie Kang<br>SBU Genetics<br>Grad Student<br>Since 2024
 position: gradstudent
-avatar: yijiekang_profile2.jpg
+avatar: yijiekang_profile.jpg
 twitter: 
 ---
 

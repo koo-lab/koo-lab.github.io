@@ -1,7 +1,7 @@
 ---
 name: Trevor Christensen<br>CSHL<br>Grad Student<br>Since 2025
 position: gradstudent 
-avatar: trevor_profile.jpg
+avatar: trevorchristensen_profile.jpg
 joined: 2025-01-01
 ---
 
