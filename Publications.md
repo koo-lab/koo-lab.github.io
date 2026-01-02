@@ -3,26 +3,37 @@ title: Publication
 permalink: /Publication/
 ---
 
+## 2026
+
+_Towards interpretable prediction of recurrence risk in breast cancer using pathology foundation models_<br>
+<b>JR Kaczmarzyk</b>, S Van Alsten, AJ Cozzo, R Gupta, <b>PK Koo</b>, MA Troester, KA Hoadley, JH Saltz<br>
+arXiv ([Preprint](https://arxiv.org/abs/2508.12025))<br>
+_Accepted in npj Digital Medicine_<br>
+
+_Uncertainty-aware genomic deep learning with knowledge distillation_<br>
+<b>JL Zhou</b>, <b>K Rizzo</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
+bioRxiv ([Paper](https://www.biorxiv.org/content/10.1101/2024.11.13.623485), [Code](https://github.com/zrcjessica/ensemble_distillation))<br>
+_Presented at 2025 ICLR Workshop on Machine Learning for Genomics Explorations_<br>
+_Accepted in npj Artificial Intelligence_<br>
+
+
 ## 2025
+
+_Uncovering the Mechanistic Landscape of Regulatory DNA with Deep Learning_<br>
+<b>E Seitz</b>, DM McCandlish, JB Kinney, <b>PK Koo</b><br>
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2025.10.07.681052v1.full), [Code](https://github.com/evanseitz/seam-nn))<br> 
+_Oral presentation at 2025 ICLR Workshop on Machine Learning for Genomics Explorations_<br>
 
 _Decoding the regulatory genome with large-scale deep learning_<br>
 <b>PK Koo</b><br>
 Nature Review Genetics ([Paper](https://www.nature.com/articles/s41576-025-00914-2)) <br> 
 
-_Uncovering the Mechanistic Landscape of Regulatory DNA with Deep Learning_<br>
-<b>E Seitz</b>, DM McCandlish, JB Kinney, <b>PK Koo</b><br>
-bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2025.10.07.681052v1.full), [Code](https://github.com/evanseitz/seam-nn))<br> 
-
 _Evaluating the representational power of pre-trained DNA language models for regulatory genomics_<br>
 <b>Z Tang</b>, <b>N Somia</b>, <b>Y Kang</b>, <b>PK Koo</b><br>
 Genome Biology ([Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03674-8), [Code](https://github.com/amberT15/LLM_eval)) <br> 
-_Presented at the 2023 ICML Workshop on Computational Biology_ 
-_Selected for oral presentation at 2024 CSHL Meeting on Systems Biology_ 
-_[Research Highlight at Nature Methods](https://www.nature.com/articles/s41592-025-02829-6)_
-
-_Towards interpretable prediction of recurrence risk in breast cancer using pathology foundation models_<br>
-<b>JR Kaczmarzyk</b>, S Van Alsten, AJ Cozzo, R Gupta, <b>PK Koo</b>, MA Troester, KA Hoadley, JH Saltz<br>
-arXiv ([Preprint](https://arxiv.org/abs/2508.12025))<br>
+_Presented at the 2023 ICML Workshop on Computational Biology_ <br>
+_Selected for oral presentation at 2024 CSHL Meeting on Systems Biology_ <br>
+_[Research Highlight at Nature Methods](https://www.nature.com/articles/s41592-025-02829-6)_<br>
 
 _Machine Learning for Protein Science and Engineering_<br>
 <b>PK Koo</b>, C Dallago, A Nambiar, KK Yang<br>
@@ -43,11 +54,6 @@ Nucleic Acids Research ([Paper](https://academic.oup.com/nar/article/53/4/gkaf09
 
 ## 2024
 
-_Uncertainty-aware genomic deep learning with knowledge distillation_<br>
-<b>JL Zhou</b>, <b>K Rizzo</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
-bioRxiv ([Paper](https://www.biorxiv.org/content/10.1101/2024.11.13.623485), [Code](https://github.com/zrcjessica/ensemble_distillation))<br>
-
-
 _Explainable AI for computational pathology identifies model limitations and tissue biomarkers_<br>
 <b>JR Kaczmarzyk</b>, JH Saltz, <b>PK Koo</b><br>
 arXiv ([Preprint](https://arxiv.org/abs/2409.03080), [Code](https://github.com/kaczmarj/HIPPO))<br>
@@ -56,7 +62,7 @@ arXiv ([Preprint](https://arxiv.org/abs/2409.03080), [Code](https://github.com/k
 _Designing DNA With Tunable Regulatory Activity Using Discrete Diffusion_<br>
 <b>A Sarkar</b>, <b>Z Tang</b>, <b>C Zhao</b>, <b>PK Koo</b><br>
 bioRxiv ([Preprint](https://www.biorxiv.org/content/10.1101/2024.05.23.595630v1.abstract), [Code](https://anonymous.4open.science/r/D3-DNA-Discrete-Diffusion-3E42/))<br> 
- Selected for oral presentation at 2024 MLCB
+ Selected for oral presentation at 2024 MLCB<br> 
 
 
 _Analysis of single-cell CRISPR perturbations indicates that enhancers predominantly act multiplicatively_<br>
@@ -67,7 +73,7 @@ Cell Genomics ([Paper](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24
 _Interpreting Cis-Regulatory Interactions from Large-Scale Deep Neural Networks for Genomics_<br>
 <b>S Toneyan</b>, <b>PK Koo</b><br>
 Nature Genetics ([Article](https://www.nature.com/articles/s41588-024-01923-3), [Code](https://github.com/p-koo/creme-nn)) <br>
-_Selected for oral presentation at 2023 MLCB_
+_Selected for oral presentation at 2023 MLCB_<br> 
 
 
 _Interpreting Cis-Regulatory Mechanisms from Genomic Deep Neural Networks using Surrogate Models_<br>
@@ -86,12 +92,12 @@ Bioinformatics ([Article](https://academic.oup.com/bioinformatics/article/40/3/b
 
 _Revisiting initialization strategies for deep learning in regulatory genomics_<br> 
 <b>C Rajesh</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
-2023 Machine Learning in Computational Biology
+2023 Machine Learning in Computational Biology<br> 
 
 
 _Building foundation models for regulatory genomics requires rethinking large language models_<br> 
 <b>Z Tang</b>, <b>PK Koo</b><br>
-ICML 2023 Workshop on Computational Biology ([Workshop paper](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper92.pdf))
+ICML 2023 Workshop on Computational Biology ([Workshop paper](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper92.pdf))<br> 
 
 
 _EvoAug: improving generalization and interpretability of genomic deep neural networks with evolution-inspired data augmentations_<br>
@@ -126,7 +132,7 @@ RNA Structure Prediction, Methods in Molecular Biology ([Chapter](https://link.s
 _Selecting deep neural networks that yield consistent attribution-based interpretations for genomics_<br>
 <b>A Majdandzic</b>, <b>C Rajesh</b>, <b>Z Tang</b>, <b>S Toneyan</b>, <b>E Labelson</b>, <b>R Tripathy</b>, <b>PK Koo</b><br>
 2022 Machine Learning in Computational Biology ([Proceedings](https://proceedings.mlr.press/v200/majdandzic22a.html), [Code](https://github.com/crajesh6/acme))<br>
-_Selected for oral presentation at MLCB_
+_Selected for oral presentation at MLCB_<br> 
 
 _Learning single-cell chromatin accessibility profiles using meta-analytic marker genes_<br>
 RK Kawaguchi, <b>Z Tang</b>, S Fischer, <b>Chandana Rajesh</b>, <b>R Tripathy</b>, <b>PK Koo</b>, J Gillis <br>
@@ -138,14 +144,14 @@ Nature Machine Intelligence ([Article](https://www.nature.com/articles/s42256-02
 
 _Interpreting Potts and Transformer Protein Models Through the Lens of Simplified Attention_<br>
 N Bhattacharya, N Thomas, R Rao, J Dauparas, <b>PK Koo</b>, D Baker, YS Song, S Ovchinnikov <br>
-Pacific Symposium on Biocomputing ([Article](https://www.worldscientific.com/doi/abs/10.1142/9789811250477_0004), [Code](https://github.com/nickbhat/mogwai.git))
+Pacific Symposium on Biocomputing ([Article](https://www.worldscientific.com/doi/abs/10.1142/9789811250477_0004), [Code](https://github.com/nickbhat/mogwai.git))<br> 
 
 
 ## 2021
 _Uncovering motif interactions from convolutional-attention networks for genomics_<br>
 <b>R Ghotra</b>, <b>N Lee</b>, <b>PK Koo</b> <br>
 NeurIPS 2021 AI for Science Workshop ([Workshop paper](https://openreview.net/forum?id=ITOQhccyRsk&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2021%2FWorkshop%2FAI4Science%2FAuthors%23your-submissions)), [Code]())   <br>
-_Selected for oral presentation_ -- <b>Best Paper Award</b>
+_Selected for oral presentation_ -- <b>Best Paper Award</b><br> 
 
 
 _Towards trustworthy explanations with gradient-based attribution methods_<br>
@@ -156,13 +162,13 @@ NeurIPS 2021 AI for Science Workshop ([Workshop paper](https://openreview.net/fo
 _End-to-end learning of multiple sequence alignmentswith differentiable Smith-Waterman_<br>
 S Petty, N Bhattacharya, R Rao, J Dauparas, N Thomas, J Zhou, AM Rush, <b>PK Koo</b>, S Ovchinnikov <br>
 NeurIPS 2021 Machine Learning for Structural Biology Workshop ([Workshop paper](https://www.biorxiv.org/content/10.1101/2021.10.23.465204v1), [Code](https://github.com/spetti/SMURF))  <br>
-_Selected for oral presentation_
+_Selected for oral presentation_<br> 
 
 
 _Statistical correction of input gradients for black box models trained with categorical input features_<br>
 <b>A Majdandzic</b>, <b>PK Koo</b> <br>
 ICML 2021 Workshop on Computational Biology ([Workshop paper](https://icml-compbio.github.io/2021/papers/WCBICML2021_paper_56.pdf), [Code](https://github.com/p-koo/gradient_correction))   <br>
-_Selected for spotlight presentation_
+_Selected for spotlight presentation_<br> 
 
 
 _Designing Interpretable Convolution-Based Hybrid Networks for Genomics_<br>
