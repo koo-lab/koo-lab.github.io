@@ -5,6 +5,10 @@ permalink: /Publication/
 
 ## 2026
 
+_A foundational model for joint sequence-function multi-species modeling at scale for long-range genomic prediction_<br>
+S Boshar, B Evans, <b>Z Tang</b>, ...,  <b>C Rajesh</b>, ..., <b>E Seitz</b>, ..., <b>PK Koo</b>, V Kuleshov, A Stark, BP de Almeida, T Pierrot<br>
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.64898/2025.12.22.695963v1))<br>
+
 _Towards interpretable prediction of recurrence risk in breast cancer using pathology foundation models_<br>
 <b>JR Kaczmarzyk</b>, S Van Alsten, AJ Cozzo, R Gupta, <b>PK Koo</b>, MA Troester, KA Hoadley, JH Saltz<br>
 arXiv ([Preprint](https://arxiv.org/abs/2508.12025))<br>
