@@ -96,6 +96,7 @@ Arnav Pemmaraju |  High School Researcher | Great Neck South High | Summer 2025 
 Brian Cheng |  High School Researcher | Great Neck South High | Summer 2025 |  |
 Eliot Bih |  High School Researcher | Syosset High | Summer 2025 |  |
 Shivani Muthukumar | High School Researcher  | Commack High | 2024-2025 | Undergrad at Columbia |
+Alicia Barriola | High School Researcher  | Cold Spring Harbor High | 2024-2025 | Undergrad at U Michigan |
 Aayush Prakash | High School Researcher  | Half Hallow Hills High | 2022-2024 | Undergrad at UNC |
 Katie Engel | High School Researcher  | Cold Spring Harbor High | 2023-2024 | Undergrad at Tufts |
 Steven Yu | High School Researcher  | Syosset High | 2022-2023 | Undergrad at Columbia |
