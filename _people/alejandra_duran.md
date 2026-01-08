@@ -1,6 +1,6 @@
 ---
-name: Alejandra Duran<br>CSHL<br>Postbac<br>Since 2025
-position: postbac
+name: Alejandra Duran<br>CSHL<br>Computational Developer<br>Since 2025
+position: staff
 avatar: alejandraduran_profile.jpg
 ---
 
