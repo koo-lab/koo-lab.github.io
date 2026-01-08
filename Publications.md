@@ -16,9 +16,8 @@ _Accepted in npj Digital Medicine_<br>
 
 _Uncertainty-aware genomic deep learning with knowledge distillation_<br>
 <b>JL Zhou</b>, <b>K Rizzo</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
-bioRxiv ([Paper](https://www.biorxiv.org/content/10.1101/2024.11.13.623485), [Code](https://github.com/zrcjessica/ensemble_distillation))<br>
+npj Artificial Intelligence ([Paper](https://www.nature.com/articles/s44387-025-00053-3), [Code](https://github.com/zrcjessica/ensemble_distillation))<br>
 _Presented at 2025 ICLR Workshop on Machine Learning for Genomics Explorations_<br>
-_Accepted in npj Artificial Intelligence_<br>
 
 
 ## 2025
