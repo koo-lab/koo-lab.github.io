@@ -3,10 +3,10 @@
 
 // CSS Custom Properties for theming
 :root {
-  // Light mode colors (teal/cyan palette)
-  --color-primary: #0d9488;
-  --color-primary-hover: #0f766e;
-  --color-accent: #06b6d4;
+  // Light mode colors (subdued blue palette)
+  --color-primary: #4a6fa5;
+  --color-primary-hover: #3d5a87;
+  --color-accent: #6b8cba;
   --color-text-dark: #1e293b;
   --color-text-body: #475569;
   --color-text-muted: #64748b;
@@ -20,15 +20,15 @@
   --color-code-text: #be185d;
   --navbar-bg: #ffffff;
   --timeline-line: #cbd5e1;
-  --timeline-dot: #0d9488;
+  --timeline-dot: #4a6fa5;
 }
 
 // Dark mode colors (auto based on system preference)
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-primary: #2dd4bf;
-    --color-primary-hover: #5eead4;
-    --color-accent: #22d3ee;
+    --color-primary: #7ba3d4;
+    --color-primary-hover: #9bbde8;
+    --color-accent: #8fb4dc;
     --color-text-dark: #f1f5f9;
     --color-text-body: #e2e8f0;
     --color-text-muted: #94a3b8;
@@ -42,7 +42,7 @@
     --color-code-text: #f472b6;
     --navbar-bg: #1e293b;
     --timeline-line: #475569;
-    --timeline-dot: #2dd4bf;
+    --timeline-dot: #7ba3d4;
   }
 }
 
@@ -308,16 +308,16 @@ img {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  font-size: 60%;
+  font-size: 65%;
   border: 1px solid var(--color-border);
   border-collapse: collapse;
 }
 
 td,
 th {
-  padding: 0.3rem 0.4rem;
+  padding: 0.35rem 0.45rem;
   border: 1px solid var(--color-border);
-  font-size: 90%;
+  font-size: 95%;
 }
 
 tbody tr:nth-child(odd) td,
@@ -571,8 +571,8 @@ tbody tr:nth-child(odd) th {
 }
 
 .person-photo {
-  width: 180px !important;
-  height: 180px !important;
+  width: 220px !important;
+  height: 220px !important;
   margin: 0 auto 0.75rem !important;
   border-radius: 50% !important;
   overflow: hidden !important;
@@ -581,12 +581,12 @@ tbody tr:nth-child(odd) th {
 }
 
 .person-photo img {
-  width: 180px !important;
-  height: 180px !important;
-  min-width: 180px !important;
-  min-height: 180px !important;
-  max-width: 180px !important;
-  max-height: 180px !important;
+  width: 220px !important;
+  height: 220px !important;
+  min-width: 220px !important;
+  min-height: 220px !important;
+  max-width: 220px !important;
+  max-height: 220px !important;
   object-fit: cover !important;
   object-position: center top !important;
   border-radius: 50% !important;
