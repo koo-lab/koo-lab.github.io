@@ -18,7 +18,6 @@ More broadly, we are interested in understanding how architectural choices, trai
 </p>
 
 <img class='img-responsive center-block' src="/images/research/interp.jpg" width="100%" height="100%"/>
-
 <br>
 
 ### Generative Models for Regulatory Sequence Design
