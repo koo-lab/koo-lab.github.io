@@ -1,5 +1,7 @@
 ---
 name: Peter Koo
+role: Principal Investigator
+program: CSHL
 position: pi
 avatar: peter_koo_profile.png
 twitter: pkoo562
@@ -32,33 +34,4 @@ twitter: pkoo562
 
 ### Research Interests
 
-I am interested in exploring how robust representations of biological sequences learned by deep neural networks can provide novel insights into biological processes. 
-<br>
-<br>
-<br>
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
+I am interested in exploring how robust representations of biological sequences learned by deep neural networks can provide novel insights into biological processes.

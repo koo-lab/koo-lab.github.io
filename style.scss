@@ -536,9 +536,104 @@ tbody tr:nth-child(odd) th {
 
 // Customization - People section
 .pos_header {
-  margin-left: 2rem;
+  margin-left: 0;
+  margin-bottom: 1.5rem;
+
+  h3 {
+    color: var(--color-text-dark);
+    border-bottom: 2px solid var(--color-primary);
+    padding-bottom: 0.5rem;
+    display: inline-block;
+  }
 }
 
+// People grid layout
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.person-card {
+  text-align: center;
+  transition: transform 0.2s ease;
+
+  &:hover {
+    transform: translateY(-4px);
+  }
+}
+
+.person-photo {
+  width: 140px;
+  height: 140px;
+  margin: 0 auto 1rem;
+  border-radius: 50%;
+  overflow: hidden;
+  box-shadow: 0 4px 6px -1px var(--color-shadow);
+  transition: box-shadow 0.2s ease;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 50%;
+    margin: 0;
+  }
+
+  &:hover {
+    box-shadow: 0 10px 20px -5px var(--color-shadow);
+  }
+}
+
+.person-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.person-name {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--color-text-dark);
+  text-decoration: none;
+
+  &:hover {
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+}
+
+.person-role {
+  font-size: 0.8rem;
+  color: var(--color-primary);
+  font-weight: 500;
+}
+
+.person-program {
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+}
+
+// Responsive adjustments
+@media (max-width: 600px) {
+  .people-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }
+
+  .person-photo {
+    width: 100px;
+    height: 100px;
+  }
+
+  .person-name {
+    font-size: 0.9rem;
+  }
+}
+
+// Legacy styles for backwards compatibility
 .people {
   margin: auto;
   text-align: center;

@@ -1,9 +1,11 @@
 ---
-name: Alan Murphy<br>Postdoc<br>Since 2025
-position: postdoc 
+name: Alan Murphy
+role: Postdoc
+program: Imperial College London
+position: postdoc
 avatar: alanmurphy_profile.jpg
 twitter: Al_Murphy_
-joined: 2025-03-03
+joined: 2025
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -26,36 +28,3 @@ joined: 2025-03-03
 ### Research Interests
 
 I am interested in developing methods to improve genomic deep learning models so they can be better used to elucidate the cis-regulatory code.
-I am interested in developing methods to improve genomic deep learning models so they can be better used to elucidate the cis-regulatory code. 
-<br>
-<br>
-<br>
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-
-
-

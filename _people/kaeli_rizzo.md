@@ -1,7 +1,10 @@
 ---
-name: Kaeli Rizzo<br>CSHL<br>Grad Student<br>Since 2023
+name: Kaeli Rizzo
+role: Grad Student
+program: CSHL
 position: gradstudent
 avatar: kaelirizzo_profile.jpg
+joined: 2023
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -19,33 +22,4 @@ avatar: kaelirizzo_profile.jpg
 
 ### Research Interests
 
-I am interested in using big data (specifically multi-omics data) and deep learning to derive new understandings about biological phenomena and health outcomes to add to both the literature available as well as improve current medical treatments through personalized medicine.  I am also interested in making deep learning models more interpretable for better application in biology.  My previous research revolved around the application of machine learning and bioinformatics tools to biological datasets.  Some of my previous projects include using UK Biobank data to study the relationship between environmental factors and health disparities, as well as developing a *de novo* assembly pipeline.
-<br>
-<br>
-<br>
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
->>>>>>> b7a7a39d2175397610533f75bb5fe6bd02319da8
+I am interested in using big data (specifically multi-omics data) and deep learning to derive new understandings about biological phenomena and health outcomes to add to both the literature available as well as improve current medical treatments through personalized medicine. I am also interested in making deep learning models more interpretable for better application in biology.

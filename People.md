@@ -4,35 +4,39 @@ permalink: /People/
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
-{% assign people_array = "pi|postdoc|gradstudent|staff|undergrad|highschool" | split: "|" %}
+{% assign people_array = "pi|postdoc|gradstudent|staff|highschool" | split: "|" %}
 
 {% for item in people_array %}
 
 <div class="pos_header">
 {% if item == 'pi' %}
 <h3>Principal Investigator</h3>
- {% elsif item == 'postdoc' %}
+{% elsif item == 'postdoc' %}
 <h3>Postdoctoral Researchers</h3>
- {% elsif item == 'gradstudent' %}
+{% elsif item == 'gradstudent' %}
 <h3>Graduate Students</h3>
- {% elsif item == 'rotation' %}
-<h3>Masters Researchers</h3>
- {% elsif item == 'staff' %}
+{% elsif item == 'staff' %}
 <h3>Staff</h3>
- {% elsif item == 'highschool' %}
+{% elsif item == 'highschool' %}
 <h3>High School Researchers</h3>
 {% endif %}
 </div>
 
-<div class="content list people">
+<div class="people-grid">
   {% for profile in people_sorted %}
     {% if profile.position contains item %}
-    <div class="list-item-people">
-      <p class="list-post-title">
-        <a href="{{ site.baseurl }}{{ profile.url }}"><img width="200" src="{{site.baseurl}}/images/people/{{profile.avatar}}" loading="lazy" alt="{{ profile.name }}"></a>
-        <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
-      </p>
-    </div>    
+    <div class="person-card">
+      <a href="{{ site.baseurl }}{{ profile.url }}">
+        <div class="person-photo">
+          <img src="{{site.baseurl}}/images/people/{{profile.avatar}}" loading="lazy" alt="{{ profile.name }}">
+        </div>
+      </a>
+      <div class="person-info">
+        <a class="person-name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
+        <span class="person-role">{{ profile.role }}</span>
+        <span class="person-program">{{ profile.program }}</span>
+      </div>
+    </div>
     {% endif %}
   {% endfor %}
 </div>
@@ -88,7 +92,7 @@ Roshan Kenia | Undergrad Researcher | Stony Brook, Computer Science | 2020-2021 
 
 
 <h5>High Schoolers</h5>
- 
+
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
 Arnav Pemmaraju |  High School Researcher | Great Neck South High | Summer 2025 |  |
@@ -110,10 +114,3 @@ Zaara Yakub | High School Researcher | Bethpage High School | 2020-2021 | Underg
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
 Eduardo Esteva | Masters Student | NYU, Bioinformatics | 2020-2021 | Bioinformatics Analyst at NYU Grossman School of Medicine |
-
-
-<br>
-<br>
-<br>
-
-

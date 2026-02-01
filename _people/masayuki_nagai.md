@@ -1,42 +1,20 @@
 ---
-name: Masayuki (Moon) Nagai<br>CSHL<br>Grad Student<br>Since 2024
+name: Masayuki (Moon) Nagai
+role: Grad Student
+program: CSHL
 position: gradstudent
 avatar: masayukinagai_profile.jpg
-twitter: 
+joined: 2024
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<br>
+
+- _2024-present, Ph.D. Student at Cold Spring Harbor Laboratory School of Biological Sciences_ <br>
 <br>
 
 <hr>
 
 ### Research Interests
 
-<br>
-<br>
-<br>
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+I am interested in developing deep learning methods for understanding gene regulation.

@@ -1,52 +1,20 @@
 ---
-name: Trevor Christensen<br>CSHL<br>Grad Student<br>Since 2025
-position: gradstudent 
+name: Trevor Christensen
+role: Grad Student
+program: CSHL
+position: gradstudent
 avatar: trevorchristensen_profile.jpg
-joined: 2025-01-01
+joined: 2025
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
-- _2024-present: PhD at Cold Spring Harbor Laboratory_ <br>
-- _2022-2024: Postbaccalaureate Research Fellow at the National Cancer Institute_ <br>
-- _2018-2022: BA in Molecular Biology at Claremont McKenna College_ <br>
+- _2025-present, Ph.D. Student at Cold Spring Harbor Laboratory School of Biological Sciences_ <br>
 <br>
-
-<a href="mailto:christen@cshl.edu"><i class="fa fa-envelope-o"></i> christen@cshl.edu</a><br>
 
 <hr>
 
 ### Research Interests
-<br>
-<br>
-<br>
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-
-
-
+I am interested in developing machine learning methods for genomics.
