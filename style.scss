@@ -74,7 +74,7 @@ body {
   background-color: var(--color-bg);
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
-  padding-top: 80px;
+  padding-top: 65px;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
@@ -315,9 +315,9 @@ table {
 
 td,
 th {
-  padding: 0.5rem 0.75rem;
+  padding: 0.4rem 0.5rem;
   border: 1px solid var(--color-border);
-  font-size: 140%;
+  font-size: 100%;
 }
 
 tbody tr:nth-child(odd) td,
@@ -549,18 +549,15 @@ tbody tr:nth-child(odd) th {
 
 // People grid layout
 .people-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-  gap: 2rem;
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr) !important;
+  gap: 1.5rem !important;
   margin-bottom: 2rem;
   padding: 0;
   list-style: none;
 }
 
 .person-card {
-  flex: 0 0 30%;
-  max-width: 220px;
   text-align: center;
   transition: transform 0.2s ease;
 
@@ -574,29 +571,31 @@ tbody tr:nth-child(odd) th {
 }
 
 .person-photo {
-  width: 200px;
-  height: 200px;
-  margin: 0 auto 0.75rem;
-  border-radius: 50%;
-  overflow: hidden;
+  width: 180px !important;
+  height: 180px !important;
+  margin: 0 auto 0.75rem !important;
+  border-radius: 50% !important;
+  overflow: hidden !important;
   box-shadow: 0 4px 6px -1px var(--color-shadow);
   transition: box-shadow 0.2s ease;
+}
 
-  img {
-    width: 200px !important;
-    height: 200px !important;
-    min-width: 200px !important;
-    min-height: 200px !important;
-    object-fit: cover;
-    object-position: center top;
-    border-radius: 50%;
-    margin: 0 !important;
-    display: block;
-  }
+.person-photo img {
+  width: 180px !important;
+  height: 180px !important;
+  min-width: 180px !important;
+  min-height: 180px !important;
+  max-width: 180px !important;
+  max-height: 180px !important;
+  object-fit: cover !important;
+  object-position: center top !important;
+  border-radius: 50% !important;
+  margin: 0 !important;
+  display: block !important;
+}
 
-  &:hover {
-    box-shadow: 0 10px 20px -5px var(--color-shadow);
-  }
+.person-photo:hover {
+  box-shadow: 0 10px 20px -5px var(--color-shadow);
 }
 
 .person-info {
@@ -634,29 +633,26 @@ tbody tr:nth-child(odd) th {
 // Responsive adjustments
 @media (max-width: 600px) {
   .people-grid {
-    justify-content: center;
-    gap: 1.25rem;
-  }
-
-  .person-card {
-    flex: 0 0 45%;
-    max-width: 160px;
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 1rem !important;
   }
 
   .person-photo {
-    width: 140px;
-    height: 140px;
+    width: 130px !important;
+    height: 130px !important;
+  }
 
-    img {
-      width: 140px !important;
-      height: 140px !important;
-      min-width: 140px !important;
-      min-height: 140px !important;
-    }
+  .person-photo img {
+    width: 130px !important;
+    height: 130px !important;
+    min-width: 130px !important;
+    min-height: 130px !important;
+    max-width: 130px !important;
+    max-height: 130px !important;
   }
 
   .person-name {
-    font-size: 0.85rem;
+    font-size: 0.8rem;
   }
 }
 
@@ -717,20 +713,15 @@ tbody tr:nth-child(odd) th {
 }
 
 .navbar-brand {
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  color: var(--color-text-dark) !important;
   padding: 0.5rem 0;
 
-  img {
-    height: 55px !important;
-    width: auto !important;
-    margin: 0;
-    border-radius: 0;
-  }
-}
-
-// Dark mode logo adjustment
-@media (prefers-color-scheme: dark) {
-  .navbar-brand img {
-    filter: brightness(1.3);
+  &:hover {
+    color: var(--color-primary) !important;
+    text-decoration: none;
   }
 }
 
