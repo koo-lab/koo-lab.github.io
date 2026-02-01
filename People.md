@@ -4,7 +4,6 @@ permalink: /People/
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
-{% assign people_sorted = (site.people | sort: 'joined' %}
 {% assign people_array = "pi|postdoc|gradstudent|staff|undergrad|highschool" | split: "|" %}
 
 {% for item in people_array %}
@@ -30,7 +29,7 @@ permalink: /People/
     {% if profile.position contains item %}
     <div class="list-item-people">
       <p class="list-post-title">
-        <a href="{{ site.baseurl }}{{ profile.url }}"><img width="200" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
+        <a href="{{ site.baseurl }}{{ profile.url }}"><img width="200" src="{{site.baseurl}}/images/people/{{profile.avatar}}" loading="lazy" alt="{{ profile.name }}"></a>
         <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
       </p>
     </div>    
