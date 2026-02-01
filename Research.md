@@ -2,9 +2,8 @@
 title: Research
 permalink: /Research/
 ---
-### Interpretable Deep Learning for Regulatory Genomics
 
-<br>
+### Interpretable Deep Learning for Regulatory Genomics
 
 <p align="justify">
 The Koo Lab studies how regulatory information is encoded in biological sequences and how this information can be learned, interpreted, and stress tested using modern machine learning. Deep learning models now achieve strong predictive performance across a wide range of regulatory genomics tasks, yet their scientific value depends on whether they can support mechanistic insight rather than prediction alone. Our work is guided by the view that interpretability is not a post hoc visualization problem, but a property that must be evaluated, audited, and often designed for.
@@ -24,9 +23,6 @@ More broadly, we are interested in understanding how architectural choices, trai
 
 ### Generative Models for Regulatory Sequence Design
 
-<br>
-
-
 <p align="justify">
 A central focus of the lab is the development of generative models that can design biological sequences conditioned on regulatory function. Unlike traditional predictive models, which estimate function for a fixed sequence, generative models explicitly learn distributions over sequences and offer a direct way to explore and manipulate regulatory space.
 </p>
@@ -43,8 +39,6 @@ Beyond sequence generation, we use these models as scientific tools to study wha
 <br>
 
 ### Improving Generalization through Active and Continual Learning
-
-<br>
 
 <p align="justify">
 A persistent limitation of current genomic models is their fragility under distribution shift. Models trained on specific cell types, genetic backgrounds, or experimental assays often fail when applied outside their training domain, even when predictions appear confident. Our work addresses this limitation by studying generalization as a first class problem rather than a secondary benchmark.
@@ -63,7 +57,6 @@ We are also interested in how knowledge learned in one biological context can be
 
 ### Integration with Experimental Genomics
 
-<br>
 <p align="justify">
 A central component of the Koo Lab's research is its integration with the Quantitative Biology experimental core facility at Cold Spring Harbor Laboratory, led by Ken Chang. The core generates functional genomics datasets that are closely aligned with model development, interpretation, and validation. This tight coordination enables low latency cycles between computational analysis and experimental execution, allowing modeling results to rapidly inform experimental design and newly generated data to be incorporated into training and evaluation. The close coordination between modeling and experimentation enables rapid iteration and supports investigation of regulatory mechanisms.
 </p>
