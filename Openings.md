@@ -12,7 +12,7 @@ The Koo Lab is recruiting graduate students through multiple PhD programs at Col
 </p>
 
 <p align="justify">
-In addition to these routes, I am actively recruiting students through the <b>BioAI PhD Program</b> at Cold Spring Harbor Laboratory. This program is designed for trainees working at the intersection of artificial intelligence and biology. Applicants to the BioAI PhD program are expected to hold a completed master's degree and to have strong preparation in machine learning, statistics, or related computational disciplines, along with a demonstrated interest in biological applications.
+In addition to these routes, we are actively recruiting students through the <b>BioAI PhD Program</b> at Cold Spring Harbor Laboratory. This program is designed for trainees working at the intersection of artificial intelligence and biology. Applicants to the BioAI PhD program are expected to hold a completed master's degree and to have strong preparation in machine learning, statistics, or related quantitative disciplines.
 </p>
 
 <p align="justify">
@@ -24,7 +24,7 @@ Students in the lab work closely with computational and experimental collaborato
 ### Lab Philosophy
 
 <p align="justify">
-Our lab is guided by the belief that strong science comes from intellectual rigor, openness, and steady forward progress. Research is inherently uncertain, and exploration, iteration, and learning from failure are expected parts of the process. What matters is not avoiding mistakes, but being thoughtful about what they teach us and how they inform what comes next.
+The Koo lab is guided by the belief that strong science comes from intellectual rigor, openness, and steady forward progress. Research is inherently uncertain, and exploration, iteration, and learning from failure are expected parts of the process. What matters is not avoiding mistakes, but being thoughtful about what they teach us and how they inform what comes next.
 </p>
 
 <p align="justify">
