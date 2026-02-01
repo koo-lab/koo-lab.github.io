@@ -114,4 +114,7 @@ Zaara Yakub | High School Researcher | Bethpage High School | 2020-2021 | Underg
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
+Marta Lemanczyk | PhD Student | Hasso-Plattner-Institute (Potsdam, Germany) | 2025 | Finishing up PhD |
+Vamsi Nallapareddy | PhD Student | EPFL | 2025 | Finishing up PhD |
 Eduardo Esteva | Masters Student | NYU, Bioinformatics | 2020-2021 | Bioinformatics Analyst at NYU Grossman School of Medicine |
+
