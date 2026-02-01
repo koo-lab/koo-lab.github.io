@@ -11,8 +11,7 @@ bioRxiv ([Preprint](https://www.biorxiv.org/content/10.64898/2025.12.22.695963v1
 
 _Towards interpretable prediction of recurrence risk in breast cancer using pathology foundation models_<br>
 <b>JR Kaczmarzyk</b>, S Van Alsten, AJ Cozzo, R Gupta, <b>PK Koo</b>, MA Troester, KA Hoadley, JH Saltz<br>
-arXiv ([Preprint](https://arxiv.org/abs/2508.12025))<br>
-_Accepted in npj Digital Medicine_<br>
+npj Digital Medicine ([Paper](https://www.nature.com/articles/s41746-025-02334-2))<br>
 
 _Uncertainty-aware genomic deep learning with knowledge distillation_<br>
 <b>JL Zhou</b>, <b>K Rizzo</b>, <b>Z Tang</b>, <b>PK Koo</b><br>
