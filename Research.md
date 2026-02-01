@@ -19,7 +19,7 @@ More broadly, we are interested in understanding how architectural choices, trai
 </p>
 
 <br>
-<img class='img-responsive center-block' src="/images/research/interp.jpg" width="80%" height="100%"/>
+<img class='img-responsive center-block' src="/images/research/interp.jpg" width="80%" height="130%"/>
 <br>
 
 <br>
@@ -42,7 +42,7 @@ Beyond sequence generation, we use these models as scientific tools to study wha
 </p>
 
 <br>
-<img class='img-responsive center-block' src="/images/research/diffusion.jpg" width="80%" height="100%"/>
+<img class='img-responsive center-block' src="/images/research/diffusion.jpg" width="80%" height="130%"/>
 <br>
 <br>
 
@@ -63,7 +63,7 @@ We are also interested in how knowledge learned in one biological context can be
 </p>
 
 <br>
-<img class='img-responsive center-block' src="/images/research/robustness.jpg" width="80%" height="100%"/>
+<img class='img-responsive center-block' src="/images/research/robustness.jpg" width="80%" height="130%"/>
 <br>
 
 <br>
