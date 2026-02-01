@@ -604,11 +604,11 @@ tbody tr:nth-child(odd) th {
 
 .person-name {
   display: block;
-  font-size: 0.85rem;
+  font-size: 1.05rem;
   font-weight: 600;
   color: var(--color-text-dark);
   text-decoration: none;
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.25rem;
 
   &:hover {
     color: var(--color-primary);
@@ -618,15 +618,15 @@ tbody tr:nth-child(odd) th {
 
 .person-role {
   display: block;
-  font-size: 0.7rem;
+  font-size: 0.9rem;
   color: var(--color-primary);
   font-weight: 500;
-  margin-bottom: 0.1rem;
+  margin-bottom: 0.15rem;
 }
 
 .person-program {
   display: block;
-  font-size: 0.65rem;
+  font-size: 0.85rem;
   color: var(--color-text-muted);
 }
 
