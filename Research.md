@@ -18,9 +18,7 @@ We develop methods to probe what sequence features and contextual dependencies d
 More broadly, we are interested in understanding how architectural choices, training objectives, and data regimes influence what models learn about regulatory logic. Rather than treating deep networks as black boxes, we aim to characterize their inductive biases, identify failure modes, and establish when their predictions and explanations can be trusted. This philosophy extends across our work in regulatory genomics, cancer genomics, and related sequence modeling problems.
 </p>
 
-<br>
 <img class='img-responsive center-block' src="/images/research/interp.jpg" width="100%" height="100%"/>
-<br>
 
 <br>
 
@@ -41,9 +39,7 @@ We have developed discrete diffusion-based generative models for DNA that operat
 Beyond sequence generation, we use these models as scientific tools to study what aspects of regulatory logic are captured by different training objectives and data sources. This includes evaluating whether generated sequences reflect known regulatory principles, whether they generalize across genetic backgrounds, and how they compare to alternative generative approaches. A key goal is to move toward generative models that are not only useful for design, but also interpretable and experimentally falsifiable.
 </p>
 
-<br>
 <img class='img-responsive center-block' src="/images/research/diffusion.jpg" width="100%" height="100%"/>
-<br>
 <br>
 
 ### Improving Generalization through Active and Continual Learning
@@ -62,10 +58,7 @@ We are developing active and continual learning frameworks that integrate modeli
 We are also interested in how knowledge learned in one biological context can be transferred to new systems with limited data. This includes adapting models across cell types, species, and experimental modalities, as well as understanding when such transfer fails. Ultimately, our goal is to develop genomic AI systems that are robust, self correcting, and capable of supporting discovery in settings where data are scarce and biological complexity is high.
 </p>
 
-<br>
 <img class='img-responsive center-block' src="/images/research/robustness.jpg" width="100%" height="100%"/>
-<br>
-
 <br>
 
 ### Integration with Experimental Genomics
