@@ -308,16 +308,16 @@ img {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  font-size: 70%;
+  font-size: 60%;
   border: 1px solid var(--color-border);
   border-collapse: collapse;
 }
 
 td,
 th {
-  padding: 0.4rem 0.5rem;
+  padding: 0.3rem 0.4rem;
   border: 1px solid var(--color-border);
-  font-size: 100%;
+  font-size: 90%;
 }
 
 tbody tr:nth-child(odd) td,
@@ -713,7 +713,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .navbar-brand {
-  font-size: 22px;
+  font-size: 28px !important;
   font-weight: 600;
   letter-spacing: 0.5px;
   color: var(--color-text-dark) !important;
