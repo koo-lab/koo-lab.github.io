@@ -308,16 +308,15 @@ img {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  font-size: 0.8rem;
+  font-size: 0.85rem;
   border: 1px solid var(--color-border);
   border-collapse: collapse;
 }
 
 td,
 th {
-  padding: 0.4rem 0.5rem;
+  padding: 0.35rem 0.45rem;
   border: 1px solid var(--color-border);
-  font-size: 1rem;
 }
 
 tbody tr:nth-child(odd) td,
@@ -729,7 +728,7 @@ tbody tr:nth-child(odd) th {
   font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
-  font-size: 13px;
+  font-size: 15px;
   color: var(--color-text-body) !important;
   padding: 0.5rem 1rem;
   transition: color 0.2s ease;
