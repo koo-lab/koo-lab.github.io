@@ -308,16 +308,16 @@ img {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  font-size: 65%;
+  font-size: 0.8rem;
   border: 1px solid var(--color-border);
   border-collapse: collapse;
 }
 
 td,
 th {
-  padding: 0.35rem 0.45rem;
+  padding: 0.4rem 0.5rem;
   border: 1px solid var(--color-border);
-  font-size: 95%;
+  font-size: 1rem;
 }
 
 tbody tr:nth-child(odd) td,
@@ -571,8 +571,8 @@ tbody tr:nth-child(odd) th {
 }
 
 .person-photo {
-  width: 220px !important;
-  height: 220px !important;
+  width: 260px !important;
+  height: 260px !important;
   margin: 0 auto 0.75rem !important;
   border-radius: 50% !important;
   overflow: hidden !important;
@@ -581,12 +581,12 @@ tbody tr:nth-child(odd) th {
 }
 
 .person-photo img {
-  width: 220px !important;
-  height: 220px !important;
-  min-width: 220px !important;
-  min-height: 220px !important;
-  max-width: 220px !important;
-  max-height: 220px !important;
+  width: 260px !important;
+  height: 260px !important;
+  min-width: 260px !important;
+  min-height: 260px !important;
+  max-width: 260px !important;
+  max-height: 260px !important;
   object-fit: cover !important;
   object-position: center top !important;
   border-radius: 50% !important;
