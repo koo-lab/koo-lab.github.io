@@ -1,7 +1,7 @@
 ---
 name: Yash Mundewadi
 role: Grad Student
-program: IIT Kharagpur
+program: CSHL
 position: gradstudent
 avatar: yashmundewadi_profile.jpg
 joined: 2023
@@ -13,8 +13,10 @@ joined: 2023
 - _2019-Present: BTech-MTech Dual Degree in Biotechnology & Biochemical Engineering, Indian Institute of Technology Kharagpur_ <br>
 <br>
 
+<a href="mailto:yash.vm@iitkgp.ac.in"><i class="fas fa-envelope"></i> yash.vm@iitkgp.ac.in</a><br>
+
 <hr>
 
 ### Research Interests
 
-I am interested in developing machine learning methods for genomics and data distillation.
+My research interests are computational modeling of biological systems and developing novel experimental technologies to increase the throughput and resolution with which we can acquire experimental data, especially using microfluidic and optical tools.

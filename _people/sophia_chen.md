@@ -11,7 +11,10 @@ joined: 2024
 <br>
 
 - _Summer 2024-present, High School Student Researcher, Koo Lab at CSHL_ <br>
+- _Class of 2026, Farragut High School_ <br>
 <br>
+
+<a href="mailto:muthukum@cshl.edu"><i class="fas fa-envelope"></i> muthukum@cshl.edu</a><br>
 
 <hr>
 

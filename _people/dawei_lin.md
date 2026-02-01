@@ -1,7 +1,7 @@
 ---
 name: Da-wei Lin
 role: Postdoc
-program: CSHL
+program: U Michigan
 position: postdoc
 avatar: daweilin_profile.jpg
 joined: 2025

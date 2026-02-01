@@ -3,7 +3,7 @@ name: Peter Koo
 role: Principal Investigator
 program: CSHL
 position: pi
-avatar: peter_koo_profile.png
+avatar: peter_koo_profile.jpg
 twitter: pkoo562
 ---
 

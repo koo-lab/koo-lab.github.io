@@ -1,21 +1,31 @@
 ---
 name: Anirban Sarkar
 role: Postdoc
-program: MIT
+program: IIT Hyderabad
 position: postdoc
-avatar: anirban_sarkar_profile.png
+avatar: anirban_sarkar_profile.jpg
 joined: 2023
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <br>
 
-- _2023-present, Postdoctoral Researcher, Simons Center for Quantitative Biology at Cold Spring Harbor Laboratory_ <br>
-- _Ph.D., Massachusetts Institute of Technology_ <br>
+- _2023-present, Computational Postdoctoral Fellow, Simons Center for Quantitative Biology at Cold Spring Harbor Laboratory_ <br>
+- _2022-2023, Postdoctoral associate, MIT_ <br>
+- _2016-2022, PhD in Computer Science, IIT Hyderabad, India_ <br>
+- _2014-2016, Master of Technology, NIT Rourkela, India_ <br>
 <br>
+
+<a href="mailto:asarkar@cshl.edu"><i class="fas fa-envelope"></i> asarkar@cshl.edu</a><br>
+<a href="https://www.linkedin.com/in/anirbanmca2007"><i class="fab fa-linkedin"></i> anirbanmca2007 </a><br>
+<a href="https://github.com/anirbansarkar-cs"><i class="fab fa-github"></i> @anirbansarkar-cs </a><br>
 
 <hr>
 
 ### Research Interests
 
-I am interested in developing generative models for DNA sequence design.
+I am passionate about building systems that can perceive the world and behave in the wild, more like a human does, with explanations for the actions. Towards this goal, my research focuses on bridging the gap of human and machine intelligence through bringing inspiration from neuroscience to understand learning machines and facilitate improving the current state of interpretability and address the lack of robustness outside the training distribution.
+
+Explainable, Trustworthy and Robust Artificial Intelligence and Causal Inference
+
+For more details, [see here](https://anirbansarkar-cs.github.io/).
