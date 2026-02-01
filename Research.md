@@ -4,7 +4,7 @@ permalink: /Research/
 ---
 ### Interpretable Deep Learning for Regulatory Genomics
 
-<img class='img-responsive center-block' src="/images/research/interp.jp2" width="80%" height="80%"/>
+<img class='img-responsive center-block' src="/images/research/interp.jpg" width="80%" height="80%"/>
 <br>
 
 <p align="justify">
@@ -23,7 +23,7 @@ More broadly, we are interested in understanding how architectural choices, trai
 
 ### Generative Models for Regulatory Sequence Design
 
-<img class='img-responsive center-block' src="/images/research/diffusion.jp2" width="80%" height="80%"/>
+<img class='img-responsive center-block' src="/images/research/diffusion.jpg" width="80%" height="80%"/>
 <br>
 
 <p align="justify">
@@ -42,7 +42,7 @@ Beyond sequence generation, we use these models as scientific tools to study wha
 
 ### Improving Generalization through Active and Continual Learning
 
-<img class='img-responsive center-block' src="/images/research/robustness.jp2" width="80%" height="80%"/>
+<img class='img-responsive center-block' src="/images/research/robustness.jpg" width="80%" height="80%"/>
 <br>
 
 <p align="justify">
