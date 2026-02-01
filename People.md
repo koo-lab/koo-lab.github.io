@@ -52,6 +52,7 @@ permalink: /People/
 | :------------- |:-------------| :-----------| :-----------| :-----------|
 Evan Seitz | Postdoc | CSHL | 2022-2025 | ML Research Scientist at InstaDeep |
 Jessica Zhou | Postdoc | CSHL | 2023-2025 | Data Scientist at Stripe |
+Alessandro Crnjar | Postdoc | CSHL | 2023-2025 | AI Senior Developer QuestIT |
 Yinan Dong | Postdoc | CSHL | 2023-2023 | ML Research Scientist at Meta |
 Antonio Majdandzic | Postdoc | CSHL | 2020-2022 | ML Researcher at Bloomberg |
 Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Biomedical ML Scientist at Jackson Laboratory |
@@ -95,9 +96,9 @@ Roshan Kenia | Undergrad Researcher | Stony Brook, Computer Science | 2020-2021 
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
-Arnav Pemmaraju |  High School Researcher | Great Neck South High | Summer 2025 |  |
 Brian Cheng |  High School Researcher | Great Neck South High | Summer 2025 |  |
-Eliot Bih |  High School Researcher | Syosset High | Summer 2025 |  |
+Arnav Pemmaraju |  High School Researcher | Great Neck South High | Summer 2025 | Accepted at Johns Hopkins |
+Eliot Bih |  High School Researcher | Syosset High | Summer 2025 | Accepted at Cornell |
 Shivani Muthukumar | High School Researcher  | Commack High | 2024-2025 | Undergrad at Columbia |
 Alicia Barriola | High School Researcher  | Cold Spring Harbor High | 2024-2025 | Undergrad at U Michigan |
 Aayush Prakash | High School Researcher  | Half Hallow Hills High | 2022-2024 | Undergrad at UNC |
