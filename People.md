@@ -54,7 +54,7 @@ Evan Seitz | Postdoc | CSHL | 2022-2025 | ML Research Scientist at InstaDeep |
 Jessica Zhou | Postdoc | CSHL | 2023-2025 | Data Scientist at Stripe |
 Yinan Dong | Postdoc | CSHL | 2023-2023 | ML Research Scientist at Meta |
 Antonio Majdandzic | Postdoc | CSHL | 2020-2022 | ML Researcher at Bloomberg |
-Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Staff Scientist at Jackson Laboratory |
+Rohit Tripathy | Postdoc | CSHL | 2020-2022 | Biomedical ML Scientist at Jackson Laboratory |
 
 <h5>Grad Students</h5>
 
