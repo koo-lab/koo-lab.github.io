@@ -34,3 +34,10 @@ We value trainees who engage seriously with feedback, ground their work in the b
 <p align="justify">
 Over time, trainees are expected to develop deep expertise, contribute new ideas, and grow into independent scientists who can clearly situate their work within the field. Our goal is to create an environment that supports curiosity, accountability, and sustained scientific growth.
 </p>
+
+
+<br>
+<br>
+<br>
+
+

@@ -4,7 +4,6 @@ permalink: /Research/
 ---
 ### Interpretable Deep Learning for Regulatory Genomics
 
-<img class='img-responsive center-block' src="/images/research/interp.jpg" width="80%" height="80%"/>
 <br>
 
 <p align="justify">
@@ -20,11 +19,15 @@ More broadly, we are interested in understanding how architectural choices, trai
 </p>
 
 <br>
+<img class='img-responsive center-block' src="/images/research/interp.jpg" width="80%" height="100%"/>
+<br>
+
+<br>
 
 ### Generative Models for Regulatory Sequence Design
 
-<img class='img-responsive center-block' src="/images/research/diffusion.jpg" width="80%" height="80%"/>
 <br>
+
 
 <p align="justify">
 A central focus of the lab is the development of generative models that can design biological sequences conditioned on regulatory function. Unlike traditional predictive models, which estimate function for a fixed sequence, generative models explicitly learn distributions over sequences and offer a direct way to explore and manipulate regulatory space.
@@ -39,10 +42,12 @@ Beyond sequence generation, we use these models as scientific tools to study wha
 </p>
 
 <br>
+<img class='img-responsive center-block' src="/images/research/diffusion.jpg" width="80%" height="100%"/>
+<br>
+<br>
 
 ### Improving Generalization through Active and Continual Learning
 
-<img class='img-responsive center-block' src="/images/research/robustness.jpg" width="80%" height="80%"/>
 <br>
 
 <p align="justify">
@@ -58,9 +63,21 @@ We are also interested in how knowledge learned in one biological context can be
 </p>
 
 <br>
+<img class='img-responsive center-block' src="/images/research/robustness.jpg" width="80%" height="100%"/>
+<br>
+
+<br>
 
 ### Integration with Experimental Genomics
 
+<br>
 <p align="justify">
 A central component of the Koo Lab's research is its integration with the Quantitative Biology experimental core facility at Cold Spring Harbor Laboratory, led by Ken Chang. The core generates functional genomics datasets that are closely aligned with model development, interpretation, and validation. This tight coordination enables low latency cycles between computational analysis and experimental execution, allowing modeling results to rapidly inform experimental design and newly generated data to be incorporated into training and evaluation. The close coordination between modeling and experimentation enables rapid iteration and supports investigation of regulatory mechanisms.
 </p>
+
+
+<br>
+<br>
+<br>
+
+
