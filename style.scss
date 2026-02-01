@@ -559,7 +559,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .person-card {
-  width: 160px;
+  width: 190px;
   text-align: center;
   transition: transform 0.2s ease;
 
@@ -573,8 +573,8 @@ tbody tr:nth-child(odd) th {
 }
 
 .person-photo {
-  width: 150px;
-  height: 150px;
+  width: 180px;
+  height: 180px;
   margin: 0 auto 0.75rem;
   border-radius: 50%;
   overflow: hidden;
@@ -582,8 +582,8 @@ tbody tr:nth-child(odd) th {
   transition: box-shadow 0.2s ease;
 
   img {
-    width: 150px !important;
-    height: 150px !important;
+    width: 180px !important;
+    height: 180px !important;
     object-fit: cover;
     object-position: center top;
     border-radius: 50%;
@@ -632,25 +632,25 @@ tbody tr:nth-child(odd) th {
 @media (max-width: 600px) {
   .people-grid {
     justify-content: center;
-    gap: 1rem;
+    gap: 1.25rem;
   }
 
   .person-card {
-    width: 140px;
+    width: 150px;
   }
 
   .person-photo {
-    width: 120px;
-    height: 120px;
+    width: 140px;
+    height: 140px;
 
     img {
-      width: 120px !important;
-      height: 120px !important;
+      width: 140px !important;
+      height: 140px !important;
     }
   }
 
   .person-name {
-    font-size: 0.8rem;
+    font-size: 0.85rem;
   }
 }
 
@@ -711,11 +711,21 @@ tbody tr:nth-child(odd) th {
 }
 
 .navbar-brand {
-  font-size: 16px;
-  font-weight: 400;
-  letter-spacing: 0.5px;
-  color: var(--color-text-dark) !important;
-  padding: 0.5rem 0;
+  padding: 0.25rem 0;
+
+  img {
+    height: 38px;
+    width: auto;
+    margin: 0;
+    border-radius: 0;
+  }
+}
+
+// Dark mode logo adjustment
+@media (prefers-color-scheme: dark) {
+  .navbar-brand img {
+    filter: brightness(1.3);
+  }
 }
 
 .navbar-nav .nav-link {
