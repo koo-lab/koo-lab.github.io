@@ -71,7 +71,7 @@ Ziqi (Amber) Tang | Grad Student | CSHL | 2020-2024 | ML Research Scientist at I
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
-Nicholas Lee | Comp Sci Developer | CSHL | 2020-2022 | |
+Nicholas Lee | Comp Sci Developer | CSHL | 2020-2022 | Finishing PhD at University of Cambridge |
 
 
 <h5>Postbac</h5>
