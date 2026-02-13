@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/koo/Desktop/koo-lab.github.io status)",
+      "Bash(pip3 install:*)",
+      "Bash(ls:*)",
+      "Bash(sips:*)",
+      "Bash(python3 -m venv:*)",
+      "Bash(/tmp/imgvenv/bin/pip install:*)",
+      "Bash(/tmp/imgvenv/bin/python3:*)",
+      "Bash(bundle exec jekyll build:*)",
+      "Bash(jekyll build:*)",
+      "Bash(grep:*)",
+      "Bash(done)"
+    ]
+  }
+}
