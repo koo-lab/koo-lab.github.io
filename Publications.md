@@ -9,9 +9,21 @@ _Toward Interpretable and Generalizable AI in Regulatory Genomics_<br>
 <b>M Nagai</b>, <b>AM Murphy</b>, <b>K Rizzo</b>, <b>PK Koo</b><br>
 arXiv ([Preprint](https://arxiv.org/abs/2602.01230))<br>
 
+_Genetic background shapes AI-predicted variant effects_<br>
+<b>B Schilder</b>, ..., <b>PK Koo</b><br>
+bioRxiv ([Preprint](https://www.biorxiv.org/content/10.64898/2026.04.04.715328v1))<br>
+
 _A foundational model for joint sequence-function multi-species modeling at scale for long-range genomic prediction_<br>
 S Boshar, B Evans, <b>Z Tang</b>, ...,  <b>C Rajesh</b>, ..., <b>E Seitz</b>, ..., <b>PK Koo</b>, V Kuleshov, A Stark, BP de Almeida, T Pierrot<br>
 bioRxiv ([Preprint](https://www.biorxiv.org/content/10.64898/2025.12.22.695963v1))<br>
+
+_Predicting non-coding variant effects with AlphaGenome_<br>
+<b>AM Murphy</b>, <b>M Nagai</b>, <b>PK Koo</b><br>
+Cell Research ([Research Highlight](https://www.nature.com/articles/s41422-026-01249-1))<br>
+
+_Decoding the regulatory genome with large-scale deep learning_<br>
+<b>PK Koo</b><br>
+Nature Genetics Reviews ([Journal Club](https://www.nature.com/articles/s41576-025-00914-2))<br>
 
 _Towards interpretable prediction of recurrence risk in breast cancer using pathology foundation models_<br>
 <b>JR Kaczmarzyk</b>, S Van Alsten, AJ Cozzo, R Gupta, <b>PK Koo</b>, MA Troester, KA Hoadley, JH Saltz<br>
