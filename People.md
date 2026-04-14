@@ -78,7 +78,7 @@ Nicholas Lee | Comp Sci Developer | CSHL | 2020-2022 | Finishing PhD at Universi
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
-Nirali Somia | Researcher | PREP Scholar | 2024-2025 | PhD student at MIT|
+Nirali Somia | Researcher | PREP Scholar | 2024-2025 | PhD student at MIT/Harvard |
 
 
 <h5>Undergrads</h5>
@@ -87,7 +87,7 @@ Nirali Somia | Researcher | PREP Scholar | 2024-2025 | PhD student at MIT|
 | :------------- |:-------------| :-----------| :-----------| :-----------|
 Tianhao Luo | Summer Undergrad Research Program | UPenn, Statistics | Summer 2023 | PhD student at Harvard |
 Nika Chuzhoy | Undergrad Researcher | CalTech, Computer Science | Summer 2023 | |
-Phillip Zhou | Summer Undergrad Research Program  | Amherst College, Math | Summer 2022 | |
+Phillip Zhou | Summer Undergrad Research Program  | Amherst College, Math | Summer 2022 | PhD student at Stanford|
 Vandana Agarwala | Summer Undergrad Research Program | Penn State, Computer Science | Summer 2021 | Software developer at Flagship Pioneering |
 Roshan Kenia | Undergrad Researcher | Stony Brook, Computer Science | 2020-2021 | PhD student at Harvard |
 
@@ -103,7 +103,7 @@ Shivani Muthukumar | High School Researcher  | Commack High | 2024-2025 | Underg
 Alicia Barriola | High School Researcher  | Cold Spring Harbor High | 2024-2025 | Undergrad at U Michigan |
 Aayush Prakash | High School Researcher  | Half Hallow Hills High | 2022-2024 | Undergrad at UNC |
 Katie Engel | High School Researcher  | Cold Spring Harbor High | 2023-2024 | Undergrad at Tufts |
-Steven Yu | High School Researcher  | Syosset High | 2022-2023 | Undergrad at Columbia |
+Steven Yu | High School Researcher  | Syosset High | 2022-2023 | Undergrad at Columbia, PhD student at MIT |
 Amanda Nemshin | High School Researcher  | Cold Spring Harbor High | 2022-2023 | Undergrad at Duke |
 Rohan Ghotra | High School Researcher  | Syosset High | 2021-2022 | Undergrad at Columbia |
 Ethan Labelson | High School Researcher  | Friends Academy | 2021-2022 | Undergrad at Caltech |
