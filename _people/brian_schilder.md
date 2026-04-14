@@ -2,7 +2,7 @@
 name: Brian Schilder
 role: Postdoc
 program: Imperial College London
-position: postdoc
+position: alumni
 avatar: brianschilder_profile2.jpg
 joined: 2024
 ---

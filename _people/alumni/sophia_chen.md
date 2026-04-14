@@ -2,7 +2,7 @@
 name: Sophia Chen
 role: HS Researcher
 program: Farragut High School
-position: highschool
+position: alumni
 avatar: sophiachen_profile.jpg
 joined: 2024
 ---

@@ -50,6 +50,7 @@ permalink: /People/
 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
+Brian Schilder| Postdoc | CSHL | 2024-2026 | AI Scientist at Standard Model Bio |
 Evan Seitz | Postdoc | CSHL | 2022-2025 | ML Research Scientist at InstaDeep |
 Jessica Zhou | Postdoc | CSHL | 2023-2025 | Data Scientist at Stripe |
 Alessandro Crnjar | Postdoc | CSHL | 2023-2025 | AI Senior Developer QuestIT |
@@ -79,6 +80,7 @@ Nicholas Lee | Comp Sci Developer | CSHL | 2020-2022 | Finishing PhD at Universi
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
 Nirali Somia | Researcher | PREP Scholar | 2024-2025 | PhD student at MIT/Harvard |
+Pretty Garcia | Researcher | PREP Scholar | 2023-2024 | PhD student at Tri-I/Weill Cornell |
 
 
 <h5>Undergrads</h5>
@@ -97,6 +99,7 @@ Roshan Kenia | Undergrad Researcher | Stony Brook, Computer Science | 2020-2021 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
 Brian Cheng |  High School Researcher | Great Neck South High | Summer 2025 |  |
+Sophia Chen |  High School Researcher | Farragut High | 2024-2025 |  |
 Arnav Pemmaraju |  High School Researcher | Great Neck South High | Summer 2025 | Accepted at Johns Hopkins |
 Eliot Bih |  High School Researcher | Syosset High | Summer 2025 | Accepted at Cornell |
 Shivani Muthukumar | High School Researcher  | Commack High | 2024-2025 | Undergrad at Columbia |
