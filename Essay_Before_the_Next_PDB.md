@@ -6,13 +6,18 @@ permalink: /before-the-next-pdb/
 
 <div class="essay-header" style="margin-bottom: 2rem;">
 
+<p style="font-size: 1.5rem; color: #555; margin-bottom: 0.25rem;">
+Before the Next PDB: Can a Field Converge Before It Builds?
+</p>
+
+
 <p style="font-size: 1.05rem; color: #555; margin-bottom: 0.25rem;">
 Peter K. Koo<br>
 Cold Spring Harbor Laboratory<br>
 April 2026
 </p>
 
-<p style="margin-top: 1.25rem;">
+<p style="margin-top: 2rem;">
 <a href="Before_the_Next_PDB.pdf" target="_blank" style="font-weight: 600;">
 Download PDF
 </a>
