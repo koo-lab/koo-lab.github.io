@@ -12,7 +12,6 @@ permalink: /before-the-next-pdb/
 <p style="font-size: 1.5rem; color: #555; margin-bottom: 0.25rem;">
 Before the Next PDB: Can a Field Converge Before It Builds?
 </p>
-<br>
 
 <hr>
 
