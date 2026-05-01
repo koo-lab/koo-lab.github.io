@@ -1,10 +1,28 @@
 ---
-layout: post
+layout: page
 title: "Before the Next PDB: Can a Field Converge Before It Builds?"
-author: "Peter K. Koo"
-date: 2026-04-30
 permalink: /before-the-next-pdb/
 ---
+
+<div class="essay-header" style="margin-bottom: 2rem;">
+
+<p style="font-size: 1.05rem; color: #555; margin-bottom: 0.25rem;">
+Peter K. Koo<br>
+Cold Spring Harbor Laboratory<br>
+April 2026
+</p>
+
+<p style="margin-top: 1.25rem;">
+<a href="/assets/pdf/Before_the_Next_PDB.pdf" target="_blank" style="font-weight: 600;">
+Download PDF
+</a>
+</p>
+
+</div>
+
+<hr>
+
+<div class="essay-body" style="max-width: 760px; line-height: 1.7; font-size: 1.05rem;">
 
 Funders want to invest in AI for science. They do not yet know where.
 
@@ -52,7 +70,7 @@ Foundational datasets are no longer modest archives assembled incidentally over 
 
 We will probably not name the next PDB from a conference table. The experiment worth running is whether a field can choose under constraint before funders default to the loudest or most familiar ambition.
 
-
+</div>
 
 
 
