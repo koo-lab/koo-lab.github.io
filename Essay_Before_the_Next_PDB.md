@@ -13,7 +13,7 @@ April 2026
 </p>
 
 <p style="margin-top: 1.25rem;">
-<a href="/assets/pdf/Before_the_Next_PDB.pdf" target="_blank" style="font-weight: 600;">
+<a href="Before_the_Next_PDB.pdf" target="_blank" style="font-weight: 600;">
 Download PDF
 </a>
 </p>
