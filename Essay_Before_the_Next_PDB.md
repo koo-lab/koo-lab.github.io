@@ -32,6 +32,8 @@ permalink: /before-the-next-pdb/
 
 <div class="essay-wrap">
 
+<h1 class="essay-title">Before the Next PDB: Can a Field Converge Before It Builds?</h1>
+
 <p class="essay-meta">
 Peter K. Koo<br>
 Cold Spring Harbor Laboratory<br>
@@ -91,3 +93,5 @@ April 2026
 <p>We will probably not name the next PDB from a conference table. The experiment worth running is whether a field can choose under constraint before funders default to the loudest or most familiar ambition.</p>
 
 </div>
+<br>
+<br>
