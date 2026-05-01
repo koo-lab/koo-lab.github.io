@@ -9,7 +9,9 @@ permalink: /before-the-next-pdb/
 <p style="font-size: 1.5rem; color: #555; margin-bottom: 0.25rem;">
 Before the Next PDB: Can a Field Converge Before It Builds?
 </p>
+<br>
 
+<hr>
 
 <p style="font-size: 1.05rem; color: #555; margin-bottom: 0.25rem;">
 Peter K. Koo<br>
@@ -75,6 +77,8 @@ Download PDF
 
 <p>We will probably not name the next PDB from a conference table. The experiment worth running is whether a field can choose under constraint before funders default to the loudest or most familiar ambition.
 
-
+<br>
+<br>
+<br>
 
 
