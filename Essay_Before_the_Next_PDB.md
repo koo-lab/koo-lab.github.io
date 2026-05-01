@@ -6,6 +6,9 @@ permalink: /before-the-next-pdb/
 
 <div class="essay-header" style="margin-bottom: 2rem;">
 
+<br>
+<br>
+
 <p style="font-size: 1.5rem; color: #555; margin-bottom: 0.25rem;">
 Before the Next PDB: Can a Field Converge Before It Builds?
 </p>
