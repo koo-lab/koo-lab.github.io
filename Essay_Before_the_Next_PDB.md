@@ -22,7 +22,7 @@ Download PDF
 
 <hr>
 
-<div class="essay-body" style="max-width: 760px; line-height: 1.7; font-size: 1.05rem;">
+<div class="essay-body" style="max-width: 760px; line-height: 1.7; font-size: 1.15rem;">
 
 <p>Funders want to invest in AI for science. They do not yet know where.
 
