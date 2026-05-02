@@ -99,9 +99,9 @@ Roshan Kenia | Undergrad Researcher | Stony Brook, Computer Science | 2020-2021 
 | Name | Position | Program | Time in Lab | Current Position |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
 Brian Cheng |  High School Researcher | Great Neck South High | Summer 2025 |  |
-Sophia Chen |  High School Researcher | Farragut High | 2024-2025 |  |
-Arnav Pemmaraju |  High School Researcher | Great Neck South High | Summer 2025 | Accepted at Johns Hopkins |
-Eliot Bih |  High School Researcher | Syosset High | Summer 2025 | Accepted at Cornell |
+Sophia Chen |  High School Researcher | Farragut High | 2024-2025 | Committed to Yale |
+Arnav Pemmaraju |  High School Researcher | Great Neck South High | Summer 2025 | Committed at Johns Hopkins |
+Eliot Bih |  High School Researcher | Syosset High | Summer 2025 | Committed at Cornell |
 Shivani Muthukumar | High School Researcher  | Commack High | 2024-2025 | Undergrad at Columbia |
 Alicia Barriola | High School Researcher  | Cold Spring Harbor High | 2024-2025 | Undergrad at U Michigan |
 Aayush Prakash | High School Researcher  | Half Hallow Hills High | 2022-2024 | Undergrad at UNC |
