@@ -9,6 +9,18 @@ _Toward Interpretable and Generalizable AI in Regulatory Genomics_<br>
 <b>M Nagai</b>, <b>AM Murphy</b>, <b>K Rizzo</b>, <b>PK Koo</b><br>
 arXiv ([Preprint](https://arxiv.org/abs/2602.01230))<br>
 
+_Benchmarking seq2func models on distal enhancer effects with CRISPRi screens_<br>
+<b>A Murphy</b>, <b>PK Koo</b><br>
+Genomics × AI Blog (<a href="https://genomicsxai.github.io/blogs/2026-007/">Blog</a>)<br>
+
+_Fine-tuning AlphaGenome in native JAX/Haiku_<br> 
+<b>A Murphy</b>, <b>M Nagai</b>, A Buendia, A Kundaje, <b>PK Koo</b><br>
+Genomics × AI Blog ([Blog](https://genomicsxai.github.io/blogs/2026-003/))<br>
+
+_Adapting AlphaGenome to MPRA data_<br> 
+<b>A Murphy</b>, <b>A Durán</b>, <b>PK Koo</b><br> 
+Genomics × AI Blog ([Blog](https://genomicsxai.github.io/blogs/2026-002/))<br>
+
 _Genetic background shapes AI-predicted variant effects_<br>
 <b>B Schilder</b>, ..., <b>PK Koo</b><br>
 bioRxiv ([Preprint](https://www.biorxiv.org/content/10.64898/2026.04.04.715328v1))<br>

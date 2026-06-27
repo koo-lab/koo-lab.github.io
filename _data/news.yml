@@ -1,3 +1,7 @@
+
+- date: 2026-06-25
+  details: June 25, 2026 -- New blog post on "Benchmarking seq2func models on distal enhancer effects with CRISPRi screens" by Alan.
+
 - date: 2026-05-08
   details: May 8, 2026 -- Alan gives a talk on causal refinement at Biology of Genomes! Yijie, Pablo, Trevor and Yash present posters! Great job!
 
@@ -15,6 +19,12 @@
 
 - date: 2026-04-06
   details: Apr 6, 2026 -- Alex Kiedrowski starts her rotation in Koo Lab, working on improving predictive models in digital pathology! 
+
+- date: 2026-02-25
+  details: February 25, 2026 -- New blog post on "Fine-tuning AlphaGenome in native JAX/Haiku" by Alan, Masayuki, Alejandro, & Anshul.
+
+- date: 2026-02-20
+  details: February 20, 2026 -- New blog post on "Adapting AlphaGenome to MPRA data" by Alan & Alejandra.
 
 - date: 2026-02-01
   details: Feb 1, 2026 -- Koo Lab Review/Perspective by Moon, Alan and Kaeli is on "Toward Interpretable and Generalizable AI in Regulatory Genomics" in on arxiv!
